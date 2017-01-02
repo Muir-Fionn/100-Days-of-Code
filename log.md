@@ -2,7 +2,7 @@
 
 ### Day 1: 01 January 2017
 
-<##### (delete me or comment me out)>
+[] (##### (delete me or comment me out))
 
 **Today's Progress:** Built Layout for Tic-Tac-Toe board in HTML/CSS using Bootstrap
 
