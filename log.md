@@ -29,3 +29,13 @@
 **Thoughts:** Extra research and a couple of tutorial practices on Free Code Camp helped me figure out the onclick targeting issues for boxSelect.  Got further practice with newGame function.  Going to add the board test logic tomorrow and complete this project.
 
 **Link to work:** [Tic-Tac-Toe](http://codepen.io/muir-fionn/pen/MJWXjG)
+
+### Day 4: 04 January 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Finished Tic-Tac-Toe game.
+
+**Thoughts:** The logic for testing if a user has won seems really long and clunky.  Might review later to see if I can refactor at all.
+
+**Link to work:** [Tic-Tac-Toe (Codepen)](http://codepen.io/muir-fionn/pen/MJWXjG) || [Tic-Tac-Toe (Github Gist)](https://gist.github.com/Muir-Fionn/f8e0f386ba1fe52a458483028199f84a)
