@@ -19,3 +19,13 @@
 **Thoughts:** Having trouble determining how to target individual cells.  Taking a break and will try again tomorrow.
 
 **Link to work:** [Tic-Tac-Toe](http://codepen.io/muir-fionn/pen/qRWYzG)
+
+### Day 3: 03 January 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Finished boxSelect and newBoard functions.
+
+**Thoughts:** Extra research and a couple of tutorial practices on Free Code Camp helped me figure out the onclick targeting issues for boxSelect.  Got further practice with newGame function.  Going to add the board test logic tomorrow and complete this project.
+
+**Link to work:** [Tic-Tac-Toe](http://codepen.io/muir-fionn/pen/qRWYzG)
