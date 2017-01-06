@@ -39,3 +39,13 @@
 **Thoughts:** The logic for testing if a user has won seems really long and clunky.  Might review later to see if I can refactor at all.
 
 **Link to work:** [Tic-Tac-Toe (Codepen)](http://codepen.io/muir-fionn/pen/MJWXjG) || [Tic-Tac-Toe (Github Gist)](https://gist.github.com/Muir-Fionn/f8e0f386ba1fe52a458483028199f84a)
+
+### Day 5: 05 January 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Designed HTML and CSS for random quote generator.
+
+**Thoughts:** Need to work with twitter font awesome icon in order to align it within a button element properly.  Still not fully comfortable with CSS or design layout.
+
+**Link to work:** [Random Quote Generator](http://codepen.io/muir-fionn/pen/apzZNz)
