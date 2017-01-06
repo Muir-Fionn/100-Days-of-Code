@@ -49,3 +49,13 @@
 **Thoughts:** Need to work with twitter font awesome icon in order to align it within a button element properly.  Still not fully comfortable with CSS or design layout.
 
 **Link to work:** [Random Quote Generator](http://codepen.io/muir-fionn/pen/apzZNz)
+
+### Day 6: 06 January 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Edited HTML/CSS for personal profile. Added contact form.
+
+**Thoughts:** Design is still a struggle for me.  Trying to figure out what will look good/professional is complicated for me.
+
+**Link to work:** [Personal Portfolio](https://codepen.io/muir-fionn/pen/oLWGQm)
