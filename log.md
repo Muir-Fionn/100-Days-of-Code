@@ -59,3 +59,13 @@
 **Thoughts:** Design is still a struggle for me.  Trying to figure out what will look good/professional is complicated for me.
 
 **Link to work:** [Personal Portfolio](https://codepen.io/muir-fionn/pen/oLWGQm)
+
+### Day 6: 06 January 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Complete rework of my personal portfolio.  Worked on general layout and responsiveness today.
+
+**Thoughts:** I found it was easier for me to work in the Atom text editor than in Codepen. Used a different layout scheme that turned out much easier to encode for responsiveness. Feel confident about the layout.  Now to edit colors and add proper links/photos. 
+
+**Link to work:** [Portfolio Rework](https://gist.github.com/Muir-Fionn/899e737ef4dfb7efdff46d7835d2b178)
