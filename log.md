@@ -60,7 +60,7 @@
 
 **Link to work:** [Personal Portfolio](https://codepen.io/muir-fionn/pen/oLWGQm)
 
-### Day 6: 06 January 2017
+### Day 7: 07 January 2017
 
 [] (##### (delete me or comment me out))
 
