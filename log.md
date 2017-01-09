@@ -70,7 +70,7 @@
 
 **Link to work:** [Portfolio Rework](https://gist.github.com/Muir-Fionn/899e737ef4dfb7efdff46d7835d2b178)
 
-### Day 7: 07 January 2017
+### Day 8: 08 January 2017
 
 [] (##### (delete me or comment me out))
 
