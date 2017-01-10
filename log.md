@@ -79,3 +79,13 @@
 **Thoughts:** I enjoyed stepping away from HTML and CSS and practicing my first language again.  Consecutive Strings was frusting, but taught me a lot about working with strings in C (something that I normally avoid by using C++ instead).  Playing with Digits was very straight forward and a nice starting algorithm for me, reminding me of all the nuances to working in C.  I even liked it enough to take the time to write a more functional program that could take in test cases to verify the solution, or use the solution to test out randome numbers.
 
 **Link to work:** [Playing with Digits](https://gist.github.com/Muir-Fionn/e5fac0072e146ebb273f401e08e04a6b) || [Consecutive Strings](https://gist.github.com/Muir-Fionn/4ffd632c0edbe27459d753b1be4e0a52)
+
+### Day 9: 09 January 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Worked on API integration for Random Quote Generator
+
+**Thoughts:** I'm not sure if it's codepen, the website I'm trying to use, or just me, but I am really struggling to figure out the AJAX request for the quote API that I need to use.  I'll do some more research tomorrow and try again.
+
+**Link to work:** [Random Quote Generator](http://codepen.io/muir-fionn/pen/apzZNz)
