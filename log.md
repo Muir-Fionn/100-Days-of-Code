@@ -98,4 +98,4 @@
 
 **Thoughts:** So it was a combination of my AJAX call, and using the https version of codepen.  Did some research and found the right set up to use to get it working.  After that, it was easy to add in functionality to the twitter button.  So there is one project down and on to the weather app.  
 
-**Link to work:** [Random Quote Generator](http://codepen.io/muir-fionn/pen/apzZNz)
+**Link to work:** [Random Quote Generator (Codepen)](http://codepen.io/muir-fionn/pen/apzZNz) || [Random Quote Generator (Github Gist)](https://gist.github.com/Muir-Fionn/d5453466c91d37374d4dc3b5361f2705)
