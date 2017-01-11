@@ -89,3 +89,13 @@
 **Thoughts:** I'm not sure if it's codepen, the website I'm trying to use, or just me, but I am really struggling to figure out the AJAX request for the quote API that I need to use.  I'll do some more research tomorrow and try again.
 
 **Link to work:** [Random Quote Generator](http://codepen.io/muir-fionn/pen/apzZNz)
+
+### Day 10: 10 January 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Finished off Random Quote Generator
+
+**Thoughts:** So it was a combination of my AJAX call, and using the https version of codepen.  Did some research and found the right set up to use to get it working.  After that, it was easy to add in functionality to the twitter button.  So there is one project down and on to the weather app.  
+
+**Link to work:** [Random Quote Generator](http://codepen.io/muir-fionn/pen/apzZNz)
