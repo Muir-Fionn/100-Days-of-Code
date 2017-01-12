@@ -108,14 +108,14 @@
 
 **Thoughts:** The pixel painter was a simple program after the random quote generator, but kept me working with JavaScript without too much focus on the HTML/CSS side.  
 
-**Link to work:** [Pixel Painter] (https://gist.github.com/Muir-Fionn/89e70ffbfe6940d9fd94bdad7998d943)
+**Link to work:** [Pixel Painter](https://gist.github.com/Muir-Fionn/89e70ffbfe6940d9fd94bdad7998d943)
 
 ### Day 12: 12 January 2017
 
 [] (##### (delete me or comment me out))
 
-**Today's Progress:** Worked on Ordinary Ordinals Challenge for CS50x Hackathon on Hackerrank
+**Today's Progress:** Worked on Ordinary Ordinals and Title Case challenges for CS50x Hackathon on Hackerrank
 
 **Thoughts:** A bit interesting to jump into not having a lot of experience parsing strings in C or using the custom CS50x library.
 
-**Link to work:** [Ordinary Ordinals] (https://gist.github.com/Muir-Fionn/5023e7288804722902ac165b79ffd867)
+**Link to work:** [Ordinary Ordinals](https://gist.github.com/Muir-Fionn/5023e7288804722902ac165b79ffd867) || [Title Case](https://gist.github.com/Muir-Fionn/0b64b3ca41aa01b792a332707521260a)
