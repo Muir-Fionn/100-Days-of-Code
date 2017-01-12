@@ -99,3 +99,23 @@
 **Thoughts:** So it was a combination of my AJAX call, and using the https version of codepen.  Did some research and found the right set up to use to get it working.  After that, it was easy to add in functionality to the twitter button.  So there is one project down and on to the weather app.  
 
 **Link to work:** [Random Quote Generator (Codepen)](http://codepen.io/muir-fionn/pen/apzZNz) || [Random Quote Generator (Github Gist)](https://gist.github.com/Muir-Fionn/d5453466c91d37374d4dc3b5361f2705)
+
+### Day 11: 11 January 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Completed CodeWars kata and wrote basic pixel paint program in HTML/JS
+
+**Thoughts:** The pixel painter was a simple program after the random quote generator, but kept me working with JavaScript without too much focus on the HTML/CSS side.  
+
+**Link to work:** [Pixel Painter] (https://gist.github.com/Muir-Fionn/89e70ffbfe6940d9fd94bdad7998d943)
+
+### Day 12: 12 January 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Worked on Ordinary Ordinals Challenge for CS50x Hackathon on Hackerrank
+
+**Thoughts:** A bit interesting to jump into not having a lot of experience parsing strings in C or using the custom CS50x library.
+
+**Link to work:** [Ordinary Ordinals] (https://gist.github.com/Muir-Fionn/5023e7288804722902ac165b79ffd867)
