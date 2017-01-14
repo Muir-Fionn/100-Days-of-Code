@@ -119,3 +119,13 @@
 **Thoughts:** A bit interesting to jump into not having a lot of experience parsing strings in C or using the custom CS50x library.
 
 **Link to work:** [Ordinary Ordinals](https://gist.github.com/Muir-Fionn/5023e7288804722902ac165b79ffd867) || [Title Case](https://gist.github.com/Muir-Fionn/0b64b3ca41aa01b792a332707521260a)
+
+### Day 13: 13 January 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Worked on Data Types and Operators challenges for Hackerrank's 30 Days of Code
+
+**Thoughts:** Good exercieses to build back up my familiarity with C
+
+**Link to work:** [Data Types](https://gist.github.com/Muir-Fionn/9df7f914089465e89ebda0a7f463469c) || [Operators](https://gist.github.com/Muir-Fionn/30fa268cd1d7b49daf32b1f4d05f2148)
