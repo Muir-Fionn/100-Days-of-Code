@@ -138,7 +138,7 @@
 
 **Thoughts:** Most of the algorithms were familiar to me from C.  It was good practice to convert to javascript.
 
-**Link to work:** 
+**Link to work:** [JS Algorithms](https://github.com/Muir-Fionn/The-Web-Developer-Bootcamp/tree/master/Assignments/JS)
 
 ### Day 15: 15 January 2017
 
