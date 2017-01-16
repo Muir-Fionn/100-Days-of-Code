@@ -129,3 +129,23 @@
 **Thoughts:** Good exercieses to build back up my familiarity with C
 
 **Link to work:** [Data Types](https://gist.github.com/Muir-Fionn/9df7f914089465e89ebda0a7f463469c) || [Operators](https://gist.github.com/Muir-Fionn/30fa268cd1d7b49daf32b1f4d05f2148)
+
+### Day 14: 14 January 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Wrote basic javascript algorithms using conditional statements, while and for loops; including FizzBuzz.
+
+**Thoughts:** Most of the algorithms were familiar to me from C.  It was good practice to convert to javascript.
+
+**Link to work:** 
+
+### Day 15: 15 January 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Worked on Conditional Statements and Class vs Instance challenges for Hackerrank's 30 Days of Code
+
+**Thoughts:** Straightforward exercises, built and tested one function at a time.
+
+**Link to work:** [Conditional Statements](https://gist.github.com/Muir-Fionn/55e80c93c5265d926d3de4188a679a09) || [Class vs Instance](https://gist.github.com/Muir-Fionn/4ae9ae01808ab8dbe48409bea8e7da64)
