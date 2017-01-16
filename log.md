@@ -151,7 +151,7 @@
 **Link to work:** [Conditional Statements](https://gist.github.com/Muir-Fionn/55e80c93c5265d926d3de4188a679a09) || [Class vs Instance](https://gist.github.com/Muir-Fionn/4ae9ae01808ab8dbe48409bea8e7da64)
 
 
-### Day 15: 15 January 2017
+### Day 16: 16 January 2017
 
 [] (##### (delete me or comment me out))
 
