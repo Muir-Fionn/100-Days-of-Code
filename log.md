@@ -155,8 +155,8 @@
 
 [] (##### (delete me or comment me out))
 
-**Today's Progress:** Built HTML and CSS framework for weather app.  Researched and set up geolocation call.  Retrieved weather API key and reviewed expected JSON API return.
+**Today's Progress:** Built weather app using the APIXU API and minimal HTML/CSS.
 
-**Thoughts:** Interesting, but reassuring, to find out that Chrome web browsers do not allow HTML5 location calls from non-secure addresses.
+**Thoughts:** Interesting, but reassuring, to find out that Chrome web browsers do not allow HTML5 location calls from non-secure addresses. Proces: Built HTML and CSS framework for weather app.  Researched and set up geolocation call.  Retrieved weather API key and reviewed expected JSON API return. Built AJAX call and DOM update function.
 
 **Link to work:** [Weather App](https://codepen.io/muir-fionn/pen/jyMzLP)
