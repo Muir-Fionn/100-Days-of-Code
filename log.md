@@ -160,3 +160,13 @@
 **Thoughts:** Interesting, but reassuring, to find out that Chrome web browsers do not allow HTML5 location calls from non-secure addresses. Proces: Built HTML and CSS framework for weather app.  Researched and set up geolocation call.  Retrieved weather API key and reviewed expected JSON API return. Built AJAX call and DOM update function.
 
 **Link to work:** [Weather App](https://codepen.io/muir-fionn/pen/jyMzLP)
+
+### Day 17: 17 January 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Completed two challenges on HackerRank
+
+**Thoughts:** Woking in C and Bash practicing loops and conditional statements.  Also completed a couple of JavaScript lessons in The Web Developer Bootcamp.
+
+**Link to work:** 
