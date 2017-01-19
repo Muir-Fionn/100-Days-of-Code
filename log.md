@@ -179,4 +179,4 @@
 
 **Thoughts:** This is one of the last actual non-design related aspects that needed to be done with my personal portfolio.  It was good to get this writing out of the way so that now I can focus on the UX/UI side of the CodePen.
 
-**Link to work:** [Personal Portfolio](https://codepen.io/muir-fionn/pen/oLWGQm) || [The Web Developer Bootcamp](https://github.com/Muir-Fionn/The-Web-Developer-Bootcamp/blob/master/Assignments/JS) || [HackerRank]()
+**Link to work:** [Personal Portfolio](https://codepen.io/muir-fionn/pen/oLWGQm) || [The Web Developer Bootcamp](https://github.com/Muir-Fionn/The-Web-Developer-Bootcamp/blob/master/Assignments/JS) || [HackerRank](https://gist.github.com/Muir-Fionn/471b3a95476aa564261f3c64102fe138)
