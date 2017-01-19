@@ -170,3 +170,13 @@
 **Thoughts:** Woking in C and Bash practicing loops and conditional statements.  Also completed a couple of JavaScript lessons in The Web Developer Bootcamp.
 
 **Link to work:** 
+
+### Day 18: 18 January 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Added text for About Me and Example Summary on my personal portfolio.  Also completed a simple JavaScript Function Exercise for The Web Developer Bootcamp and a C algorithm for HackerRank.
+
+**Thoughts:** This is one of the last actual non-design related aspects that needed to be done with my personal portfolio.  It was good to get this writing out of the way so that now I can focus on the UX/UI side of the CodePen.
+
+**Link to work:** [Personal Portfolio](https://codepen.io/muir-fionn/pen/oLWGQm) || [The Web Developer Bootcamp](https://github.com/Muir-Fionn/The-Web-Developer-Bootcamp/blob/master/Assignments/JS) || [HackerRank]()
