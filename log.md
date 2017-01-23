@@ -215,4 +215,4 @@
 
 **Thoughts:** DOM manipulation is a little tricky, but I'm looking forward to the things that it will enable as I get more familiar with it.
 
-**Link to work:** [Color Toggle]() || [Score Keeper]()
+**Link to work:** [Color Toggle](https://github.com/Muir-Fionn/The-Web-Developer-Bootcamp/blob/master/Assignments/JS/colorToggle.js) || [Score Keeper]()
