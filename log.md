@@ -180,3 +180,39 @@
 **Thoughts:** This is one of the last actual non-design related aspects that needed to be done with my personal portfolio.  It was good to get this writing out of the way so that now I can focus on the UX/UI side of the CodePen.
 
 **Link to work:** [Personal Portfolio](https://codepen.io/muir-fionn/pen/oLWGQm) || [The Web Developer Bootcamp](https://github.com/Muir-Fionn/The-Web-Developer-Bootcamp/blob/master/Assignments/JS) || [HackerRank](https://gist.github.com/Muir-Fionn/471b3a95476aa564261f3c64102fe138)
+
+### Day 18.5: 19 January 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Did lessons on Udemy and SoloLearn, but work and family commitments overlapped so that I didn't actually make it to adding in an hour of focused coding.
+
+### Day 19: 20 January 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Built a basic array To Do list to function in the javascript console. Also practiced with forEach method and looping over arrays.
+
+**Thoughts:** Very basic system.  Main point was to generate experience with javascript arrays and work out the basic logic. May expand this into an app after I have a better grasp on DOM manipulation.
+
+**Link to work:** [To Do List](https://github.com/Muir-Fionn/The-Web-Developer-Bootcamp/blob/master/Assignments/JS/toDo.js) || [forEach](https://github.com/Muir-Fionn/The-Web-Developer-Bootcamp/blob/master/Assignments/JS/forEach.js) || [Array Looping](https://github.com/Muir-Fionn/The-Web-Developer-Bootcamp/blob/master/Assignments/JS/arrays.js)
+
+### Day 20: 21 January 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Built a personal movie database to practice with nested arrays and objects. Also attempted some work on the HackerRank phonebook challenge in C, but had difficulty passing and accessing my struct in functions. 
+
+**Thoughts:** Not being able to figure out the phone book challenge in HackerRank was frustrating. Going to try using two arrays instead of a struct tomorrow and see if I have better luck there.
+
+**Link to work:** [Movie Database](https://github.com/Muir-Fionn/The-Web-Developer-Bootcamp/blob/master/Assignments/JS/movieDB.js) || [HackerRank](https://www.hackerrank.com/challenges/30-dictionaries-and-maps)
+
+### Day 21: 22 January 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Built Color Toggle and Score Keeper apps in javascript to practice DOM manipulation.
+
+**Thoughts:** DOM manipulation is a little tricky, but I'm looking forward to the things that it will enable as I get more familiar with it.
+
+**Link to work:** [Color Toggle]() || [Score Keeper]()
