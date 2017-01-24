@@ -216,3 +216,25 @@
 **Thoughts:** DOM manipulation is a little tricky, but I'm looking forward to the things that it will enable as I get more familiar with it.
 
 **Link to work:** [Color Toggle](https://github.com/Muir-Fionn/The-Web-Developer-Bootcamp/blob/master/Assignments/JS/colorToggle.js) || [Score Keeper](https://github.com/Muir-Fionn/The-Web-Developer-Bootcamp/blob/master/Assignments/JS/scoreKeeper.js)
+
+
+### Day 22: 23 January 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Solved 3 Challenges for HackerRank 30 Days of Code in JavaScript.
+
+**Thoughts:** Easier to deal with strings and dictionaries in JavaScript than C.  Took a break from C to catch up on 30 Days of Code and work out the code.  Plan to do more practice in C and go back to try these again.
+
+**Link to work:** [HackerRank](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+
+
+### Day 23: 24 January 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Built HTML/CSS framework on Wikipedia Viewer for FreeCodeCamp.
+
+**Thoughts:** Played with Navbar and Jumbotron in Bootstrap.
+
+**Link to work:** [Wikipedia Viewer](https://codepen.io/muir-fionn/full/NdgLbO/)
