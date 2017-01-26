@@ -246,6 +246,6 @@
 
 **Today's Progress:** Wrote JavaScript logic to finish Wikipedia viewer.
 
-**Thoughts:** Got rid of the unneeded navbar.  Added in event listeners for focusout or enter keypress to text input and click listener to Go button.  Now that I know what errors to prepare for, AJAX calls are becoming much easier. Most interesting part was finding Object.entries() to convert pages object to an array to make looping easier.
+**Thoughts:** Got rid of the unneeded navbar.  Added in event listeners for focusout or enter keypress to text input and click listener to Go button.  Now that I know what errors to prepare for, AJAX calls are becoming much easier. Most interesting part was finding Object.entries() to convert "pages" object to an array allowing me to use forEach().
 
 **Link to work:** [Wikipedia Viewer](https://codepen.io/muir-fionn/full/NdgLbO/)
