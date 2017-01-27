@@ -217,7 +217,6 @@
 
 **Link to work:** [Color Toggle](https://github.com/Muir-Fionn/The-Web-Developer-Bootcamp/blob/master/Assignments/JS/colorToggle.js) || [Score Keeper](https://github.com/Muir-Fionn/The-Web-Developer-Bootcamp/blob/master/Assignments/JS/scoreKeeper.js)
 
-
 ### Day 22: 23 January 2017
 
 [] (##### (delete me or comment me out))
@@ -227,7 +226,6 @@
 **Thoughts:** Easier to deal with strings and dictionaries in JavaScript than C.  Took a break from C to catch up on 30 Days of Code and work out the code.  Plan to do more practice in C and go back to try these again.
 
 **Link to work:** [HackerRank](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
-
 
 ### Day 23: 24 January 2017
 
@@ -239,7 +237,6 @@
 
 **Link to work:** [Wikipedia Viewer](https://codepen.io/muir-fionn/full/NdgLbO/)
 
-
 ### Day 24: 25 January 2017
 
 [] (##### (delete me or comment me out))
@@ -249,3 +246,13 @@
 **Thoughts:** Got rid of the unneeded navbar.  Added in event listeners for focusout or enter keypress to text input and click listener to Go button.  Now that I know what errors to prepare for, AJAX calls are becoming much easier. Most interesting part was finding Object.entries() to convert "pages" object to an array allowing me to use forEach().
 
 **Link to work:** [Wikipedia Viewer](https://codepen.io/muir-fionn/full/NdgLbO/)
+
+### Day 25: 26 January 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Built in browsesr RGB Color Guessing Game.
+
+**Thoughts:** Logic was straightforward.  Great practice figuring out when/how to use the this keyword and breaking down code into functions.
+
+**Link to work:** [Wikipedia Viewer](https://github.com/Muir-Fionn/The-Web-Developer-Bootcamp/tree/master/Assignments/JS/Color%20Game)
