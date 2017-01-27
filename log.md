@@ -255,4 +255,14 @@
 
 **Thoughts:** Logic was straightforward.  Great practice figuring out when/how to use the this keyword and breaking down code into functions.
 
-**Link to work:** [Wikipedia Viewer](https://github.com/Muir-Fionn/The-Web-Developer-Bootcamp/tree/master/Assignments/JS/Color%20Game)
+**Link to work:** [Color Game](https://github.com/Muir-Fionn/The-Web-Developer-Bootcamp/tree/master/Assignments/JS/Color%20Game)
+
+### Day 25: 26 January 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Started learning python. Built functions to satisfy Problem Set 1 for MIT 6.00.1x on edX.
+
+**Thoughts:** Basic logic to analyze strings using Python.  Syntax is significantly different than what I'm used to, but I'll take that tradeoff for the ease of string analysis.
+
+**Link to work:** [Problem Set 1](https://gist.github.com/Muir-Fionn/921bb462e3c2ca1496190d63be7c0a8e)
