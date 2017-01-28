@@ -257,7 +257,7 @@
 
 **Link to work:** [Color Game](https://github.com/Muir-Fionn/The-Web-Developer-Bootcamp/tree/master/Assignments/JS/Color%20Game)
 
-### Day 25: 26 January 2017
+### Day 26: 27 January 2017
 
 [] (##### (delete me or comment me out))
 
@@ -266,3 +266,13 @@
 **Thoughts:** Basic logic to analyze strings using Python.  Syntax is significantly different than what I'm used to, but I'll take that tradeoff for the ease of string analysis.
 
 **Link to work:** [Problem Set 1](https://gist.github.com/Muir-Fionn/921bb462e3c2ca1496190d63be7c0a8e)
+
+### Day 27: 28 January 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Started on the Twitch JSON API app for FreeCodeCamp.  Built HTML/CSS base.  Started on JavaScript logic.
+
+**Thoughts:** AJAX calls are becoming simpler.  Now it's just playing around with what's returned to ensure that I meet the user stories in the most effective way.
+
+**Link to work:** [Twitch JSON API](https://codepen.io/muir-fionn/full/YNEXva/)
