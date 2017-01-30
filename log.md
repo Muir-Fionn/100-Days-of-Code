@@ -281,8 +281,19 @@
 
 [] (##### (delete me or comment me out))
 
-**Today's Progress:** finished the Twitch JSON API app for FreeCodeCamp.  Completed JavaScript DOM logic and cleaned up UI.
+**Today's Progress:** Finished the Twitch JSON API app for FreeCodeCamp.  Completed JavaScript DOM logic and cleaned up UI.
 
 **Thoughts:** Mostly playing around with different DOM manipulation methods and algorithms to meet all the user stories. Biggest win of the day was realizing that I only needed to do one API call if the user was streaming allowing me to build the online/offline functions rather than logo/status functions.
 
 **Link to work:** [Twitch JSON API (Codepen)](https://codepen.io/muir-fionn/full/YNEXva/) || [Twitch JSON API (Github)](https://gist.github.com/Muir-Fionn/6371ee9f363d7339f8640ab86570a905)
+
+
+### Day 29: 30 January 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Completed a practice code interview problem on Interview Cake called "Apple Stocks" in Python
+
+**Thoughts:** Python's syntactic differences from JavaScript and C is my biggest struggle with the language.  This was most obvious on loops and conditional statements.  What can I say?  I like parentheses and braces.
+
+**Link to work:** [Apple Stocks](https://gist.github.com/Muir-Fionn/27395cadc9cc30d70352d40ffa3c0527)
