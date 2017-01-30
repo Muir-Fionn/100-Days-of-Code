@@ -276,3 +276,13 @@
 **Thoughts:** AJAX calls are becoming simpler.  Now it's just playing around with what's returned to ensure that I meet the user stories in the most effective way.
 
 **Link to work:** [Twitch JSON API](https://codepen.io/muir-fionn/full/YNEXva/)
+
+### Day 28: 29 January 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** finished the Twitch JSON API app for FreeCodeCamp.  Completed JavaScript DOM logic and cleaned up UI.
+
+**Thoughts:** Mostly playing around with different DOM manipulation methods and algorithms to meet all the user stories. Biggest win of the day was realizing that I only needed to do one API call if the user was streaming allowing me to build the online/offline functions rather than logo/status functions.
+
+**Link to work:** [Twitch JSON API (Codepen)](https://codepen.io/muir-fionn/full/YNEXva/) || [Twitch JSON API (Github)](https://gist.github.com/Muir-Fionn/6371ee9f363d7339f8640ab86570a905)
