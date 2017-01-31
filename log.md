@@ -297,3 +297,13 @@
 **Thoughts:** Python's syntactic differences from JavaScript and C is my biggest struggle with the language.  This was most obvious on loops and conditional statements.  What can I say?  I like parentheses and braces.
 
 **Link to work:** [Apple Stocks](https://gist.github.com/Muir-Fionn/27395cadc9cc30d70352d40ffa3c0527)
+
+### Day 30: 31 January 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Completed the Intermidiate Algorithm Scripting section of FreeCodeCamp's Front End Development Certification.
+
+**Thoughts:** A couple of challenges working with forEach statements, but overall rather straightforward exercises.  I may go back and review the solutions in a week to see what refactoring can be done to the code, especially the ones that feel clunky.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.com/muir-fionn)
