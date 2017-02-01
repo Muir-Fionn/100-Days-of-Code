@@ -307,3 +307,13 @@
 **Thoughts:** A couple of challenges working with forEach statements, but overall rather straightforward exercises.  I may go back and review the solutions in a week to see what refactoring can be done to the code, especially the ones that feel clunky.
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.com/muir-fionn)
+
+### Day 31: 1 February 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Completed four Advanced Algorithm Scripting challenges for FreeCodeCamp's Front End Development Certification.
+
+**Thoughts:** A couple of challenges working with forEach statements, but overall rather straightforward exercises.  I may go back and review the solutions in a week to see what refactoring can be done to the code, especially the ones that feel clunky.
+
+**Link to work:** [Advanced Algorithms](https://github.com/Muir-Fionn/FreeCodeCamp/tree/master/Advanced%20Algorithm%20Scripting) || [FreeCodeCamp](https://www.freecodecamp.com/muir-fionn)
