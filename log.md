@@ -317,3 +317,13 @@
 **Thoughts:** A couple of challenges working with forEach statements, but overall rather straightforward exercises.  I may go back and review the solutions in a week to see what refactoring can be done to the code, especially the ones that feel clunky.
 
 **Link to work:** [Advanced Algorithms](https://github.com/Muir-Fionn/FreeCodeCamp/tree/master/Advanced%20Algorithm%20Scripting) || [FreeCodeCamp](https://www.freecodecamp.com/muir-fionn)
+
+### Day 32: 2 February 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Built functions to satisfy Problem Set 2 for MIT 6.00.1x on edX.
+
+**Thoughts:** Working through analysis of debt payments over the course of a year finding both remaining balance at given payment rates, and minimum monthly payments to pay off debt in one year.  Hardest part was identifying edge cases that resulted in infinite loops.
+
+**Link to work:** [Problem Set 2](https://gist.github.com/Muir-Fionn/aafa37fbaec64bf7c452476d52ff9ce8)
