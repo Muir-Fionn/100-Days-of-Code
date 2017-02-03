@@ -255,7 +255,7 @@
 
 **Thoughts:** Logic was straightforward.  Great practice figuring out when/how to use the this keyword and breaking down code into functions.
 
-**Link to work:** [Color Game](https://github.com/Muir-Fionn/The-Web-Developer-Bootcamp/tree/master/Assignments/JS/Color%20Game)
+**Link to work:** [Color Game (Codepen)](https://codepen.io/muir-fionn/full/jyaPrR/) || [Color Game (Github)](https://github.com/Muir-Fionn/The-Web-Developer-Bootcamp/tree/master/Assignments/JS/Color%20Game)
 
 ### Day 26: 27 January 2017
 
