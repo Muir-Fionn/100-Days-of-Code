@@ -169,7 +169,7 @@
 
 **Thoughts:** Woking in C and Bash practicing loops and conditional statements.  Also completed a couple of JavaScript lessons in The Web Developer Bootcamp.
 
-**Link to work:** 
+**Link to work:** [HackerRank (Bash)](https://www.hackerrank.com/domains/shell/bash) || [HackerRank (C)](https://www.hackerrank.com/domains/algorithms/warmup)
 
 ### Day 18: 18 January 2017
 
