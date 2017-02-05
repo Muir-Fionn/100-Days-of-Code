@@ -337,3 +337,13 @@
 **Thoughts:** Project for ["The Web Developer Bootcamp"](https://www.udemy.com/the-web-developer-bootcamp/) on Udemy.  Good practice using the this keyword in javascript when attaching event listeners.  Also learned how to apply event listeners using the on method so that the listener is add to future elements of the page as well without having to build a call a function everytime a list item is added.
 
 **Link to work:** [To Do List App (Codepen)](https://codepen.io/muir-fionn/full/OWZove/) || [To Do List App (Github)](https://github.com/Muir-Fionn/The-Web-Developer-Bootcamp/tree/master/Assignments/JS/To%20Do%20App)
+
+### Day 34: 04 February 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Built a simple Patatap Clone.
+
+**Thoughts:** Project for ["The Web Developer Bootcamp"](https://www.udemy.com/the-web-developer-bootcamp/) on Udemy.  Practice using external libraries (Paper JS and Howler JS). Due to CORS issues, sounds to not work on the CodePen version.
+
+**Link to work:** [Patatap Clone (Codepen)](https://codepen.io/muir-fionn/pen/vgrdbE) || [Patatap Clone (Github)](https://github.com/Muir-Fionn/The-Web-Developer-Bootcamp/tree/master/Assignments/JS/Patatap%20Clone)
