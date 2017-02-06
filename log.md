@@ -347,3 +347,24 @@
 **Thoughts:** Project for ["The Web Developer Bootcamp"](https://www.udemy.com/the-web-developer-bootcamp/) on Udemy.  Practice using external libraries (Paper JS and Howler JS). Due to CORS issues, sounds to not work on the CodePen version.
 
 **Link to work:** [Patatap Clone (Codepen)](https://codepen.io/muir-fionn/pen/vgrdbE) || [Patatap Clone (Github)](https://github.com/Muir-Fionn/The-Web-Developer-Bootcamp/tree/master/Assignments/JS/Patatap%20Clone)
+
+
+### Day 35: 05 February 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Hit a wall on No Repeats Please for Free Code Camp.  Taking a break to do some more research on permutations.
+
+**Thoughts:** While I can identify my base cases, trying to find all possible permutations is a bit overwhelming. I've written out the high level logic and conditional tests for each base case for now.
+
+**Link to work:** [No Repeats Please (FCC)](https://www.freecodecamp.com/challenges/no-repeats-please)
+
+### Day 36: 06 February 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Finished No Repeats Please.
+
+**Thoughts:** I had to reference FreeCodeCamp's relative GitHub to figure this out.  I'd managed to get to the essence of Heap's Algorithm, but I was implementing my filter incorrectly and made mistakes with my variable scopes.
+
+**Link to work:** [No Repeats Please](https://github.com/Muir-Fionn/FreeCodeCamp/blob/master/Advanced%20Algorithm%20Scripting/noRepeatsPlease.js)
