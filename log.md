@@ -368,3 +368,13 @@
 **Thoughts:** I had to reference FreeCodeCamp's relative GitHub to figure this out.  I'd managed to get to the essence of Heap's Algorithm, but I was implementing my filter incorrectly and made mistakes with my variable scopes.
 
 **Link to work:** [No Repeats Please](https://github.com/Muir-Fionn/FreeCodeCamp/blob/master/Advanced%20Algorithm%20Scripting/noRepeatsPlease.js)
+
+### Day 37: 07 February 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Completed Friendly Date Ranges on FreeCodeCamp.
+
+**Thoughts:** This one was easier than No Repeats Please by far. I feel like my set up of all the conditionals to see if the date is within 1 year.  This is one of the algorithms that I'm going to mark for refactor next month.
+
+**Link to work:** [Friendly Date Ranges (FCC)](https://www.freecodecamp.com/challenges/friendly-date-ranges) || [Friendly Date Ranges (Code)](https://github.com/Muir-Fionn/FreeCodeCamp/blob/master/Advanced%20Algorithm%20Scripting/friendlyDateRanges.js)
