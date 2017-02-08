@@ -378,3 +378,14 @@
 **Thoughts:** This one was easier than No Repeats Please by far. I feel like my set up of all the conditionals to see if the date is within 1 year.  This is one of the algorithms that I'm going to mark for refactor next month.
 
 **Link to work:** [Friendly Date Ranges (FCC)](https://www.freecodecamp.com/challenges/friendly-date-ranges) || [Friendly Date Ranges (Code)](https://github.com/Muir-Fionn/FreeCodeCamp/blob/master/Advanced%20Algorithm%20Scripting/friendlyDateRanges.js)
+
+
+### Day 38: 08 February 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Completed Advanced Algorithm Scripting on FreeCodeCamp.
+
+**Thoughts:** Make A Person and Map the Debris were easy and straightforward.  Pairwise is another algorithm that is getting added to the rework to refactor list.
+
+**Link to work:** [Make A Person (FCC)](https://www.freecodecamp.com/challenges/make-a-person) | [Code](https://github.com/Muir-Fionn/FreeCodeCamp/blob/master/Advanced%20Algorithm%20Scripting/makeAPerson.js) || [Map the Debris (FCC)](https://www.freecodecamp.com/challenges/map-the-debris) | [Code](https://github.com/Muir-Fionn/FreeCodeCamp/blob/master/Advanced%20Algorithm%20Scripting/mapTheDebris.js) || [Pairwise (FCC)](https://www.freecodecamp.com/challenges/pairwise) | [Code](https://github.com/Muir-Fionn/FreeCodeCamp/blob/master/Advanced%20Algorithm%20Scripting/pairwise.js)
