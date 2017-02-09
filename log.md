@@ -389,3 +389,13 @@
 **Thoughts:** Make A Person and Map the Debris were easy and straightforward.  Pairwise is another algorithm that is getting added to the rework to refactor list.
 
 **Link to work:** [Make A Person (FCC)](https://www.freecodecamp.com/challenges/make-a-person) | [Code](https://github.com/Muir-Fionn/FreeCodeCamp/blob/master/Advanced%20Algorithm%20Scripting/makeAPerson.js) || [Map the Debris (FCC)](https://www.freecodecamp.com/challenges/map-the-debris) | [Code](https://github.com/Muir-Fionn/FreeCodeCamp/blob/master/Advanced%20Algorithm%20Scripting/mapTheDebris.js) || [Pairwise (FCC)](https://www.freecodecamp.com/challenges/pairwise) | [Code](https://github.com/Muir-Fionn/FreeCodeCamp/blob/master/Advanced%20Algorithm%20Scripting/pairwise.js)
+
+### Day 39: 09 February 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Completed Problem Set 3 for MIT's [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9).
+
+**Thoughts:** Simple Hangman game. This problem set emphasized separating the problem into individual steps and then building helper functions for these steps in order to efficiently problem solve.
+
+**Link to work:** [Problem Set 3](https://gist.github.com/Muir-Fionn/45b56e4542df7b3c8ef8a2b9f6c7bf2b)
