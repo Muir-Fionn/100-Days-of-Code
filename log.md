@@ -399,3 +399,13 @@
 **Thoughts:** Simple Hangman game. This problem set emphasized separating the problem into individual steps and then building helper functions for these steps in order to efficiently problem solve.
 
 **Link to work:** [Problem Set 3](https://gist.github.com/Muir-Fionn/45b56e4542df7b3c8ef8a2b9f6c7bf2b)
+
+### Day 40: 10 February 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Completed the Midterm Problem Set for MIT's [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9).
+
+**Thoughts:** Review of everything learned so far. Lots of working with lists, dictionaries and tuples. Will post link to solutions after the midterm closes to repsect honor code.
+
+**Link to work:** [Midterm]()
