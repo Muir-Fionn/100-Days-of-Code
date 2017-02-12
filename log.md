@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 42: 12 February 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Completed problems 6 and 7 for Problem Set 4 for MIT's [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9). Also refactored some of the given functions for problem 7 (ps4b.py) in order to decrease runntime for the computer's automated turn.
+
+**Thoughts:** Refactoring the computer vs user game mode was actually very interesting.  I learned a lot about sorting and filtering 2D arrays in python and it was rewarding to have the time to play a computer hand go from taking a couple minutes to taking less than a second.
+
+**Link to work:** [Problem Set 4](https://gist.github.com/Muir-Fionn/834e64fa85f0cd30729a8dd3426bdcd1)
+
 ### Day 41: 11 February 2017
 
 [] (##### (delete me or comment me out))
