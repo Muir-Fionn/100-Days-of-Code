@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 43: 13 February 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Completed 4 easy practice challenges on CodInGame in python.
+
+**Thoughts:** Good practice in using loops and conditionals in python to solve in game problems.
+
+**Link to work:** [Problem Set 4](https://www.codingame.com/training/easy)
+
 ### Day 42: 12 February 2017
 
 [] (##### (delete me or comment me out))
