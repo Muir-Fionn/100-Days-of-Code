@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 45: 15 February 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** MAde a pure CSS bear cub image for the Daily CSS Images Challenge
+
+**Thoughts:** It was good practice taking a picture from my head into CSS.  Got practice working with inset box shadows to create depth and positioning.
+
+**Link to work:** [DailyCSSImages::Cub](http://codepen.io/muir-fionn/full/Qdoxxr/)
+
 ### Day 44: 14 February 2017
 
 [] (##### (delete me or comment me out))
