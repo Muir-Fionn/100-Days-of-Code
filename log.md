@@ -8,7 +8,7 @@
 
 **Thoughts:** It was good practice taking a picture from my head into CSS.  Got practice working with inset box shadows to create depth and positioning.
 
-**Link to work:** [DailyCSSImages::Cub](http://codepen.io/muir-fionn/full/Qdoxxr/)
+**Link to work:** [DailyCSSImages - Cub](http://codepen.io/muir-fionn/full/Qdoxxr/)
 
 ### Day 44: 14 February 2017
 
