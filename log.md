@@ -1,10 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 46: 16 February 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Made a pure CSS elephant image for the Daily CSS Images Challenge
+
+**Thoughts:** Once more practicing using circles and box-shadow.  Also practiced using differing border-radius values for each corner.
+
+**Link to work:** [DailyCSSImages - Elephant](http://codepen.io/muir-fionn/full/oBOqvj/)
+
 ### Day 45: 15 February 2017
 
 [] (##### (delete me or comment me out))
 
-**Today's Progress:** MAde a pure CSS bear cub image for the Daily CSS Images Challenge
+**Today's Progress:** Made a pure CSS bear cub image for the Daily CSS Images Challenge
 
 **Thoughts:** It was good practice taking a picture from my head into CSS.  Got practice working with inset box shadows to create depth and positioning.
 
