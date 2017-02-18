@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 47: 17 February 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Made a pure CSS beaver image for the Daily CSS Images Challenge
+
+**Thoughts:** Built a body and tail this time intead of just a head.
+
+**Link to work:** [DailyCSSImages - Beaver](http://codepen.io/muir-fionn/full/JEqpRa/)
+
 ### Day 46: 16 February 2017
 
 [] (##### (delete me or comment me out))
