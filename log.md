@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 48: 18 February 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Made a pure CSS tiger image for the Daily CSS Images Challenge
+
+**Thoughts:** Practice using triangles as well as circles and box shadows.
+
+**Link to work:** [DailyCSSImages - Tiger](http://codepen.io/muir-fionn/full/vgwMMV/)
+
 ### Day 47: 17 February 2017
 
 [] (##### (delete me or comment me out))
