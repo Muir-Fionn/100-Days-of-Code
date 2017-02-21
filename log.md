@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+### Day 50: 20 February 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Finished pure CSS image of Toothless for the Daily CSS Images Challenge
+
+**Thoughts:** Halfway done! Fun with light and dark shadow to create 3D effects on the ears and horns.
+
+**Link to work:** [DailyCSSImages - Toothless](http://codepen.io/muir-fionn/full/wgLJoY/)
+
+### Day 49: 19 February 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Started on a pure CSS image of Toothless for the Daily CSS Images Challenge
+
+**Thoughts:** This project has a lot of little add ons that made it more time consuming than I expected..
+
+**Link to work:** [DailyCSSImages - Toothless](http://codepen.io/muir-fionn/full/wgLJoY/)
+
 ### Day 48: 18 February 2017
 
 [] (##### (delete me or comment me out))
