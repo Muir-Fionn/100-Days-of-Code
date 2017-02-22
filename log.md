@@ -1,12 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 51: 21 February 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Made an animated analog clo for the Daily CSS Images Challenge
+
+**Thoughts:** Played with animation and transform-origin to make a 'working' analog clock using pure CSS.  Also made up my own element names in html instead of using multiple divs with different class names.
+
+**Link to work:** [DailyCSSImages - Clock](http://codepen.io/muir-fionn/full/xgvvyO/)
+
 ### Day 50: 20 February 2017
 
 [] (##### (delete me or comment me out))
 
 **Today's Progress:** Finished pure CSS image of Toothless for the Daily CSS Images Challenge
 
-**Thoughts:** Halfway done! Fun with light and dark shadow to create 3D effects on the ears and horns.
+**Thoughts:** Halfway through this challenge! Fun with light and dark shadow to create 3D effects on the ears and horns.
 
 **Link to work:** [DailyCSSImages - Toothless](http://codepen.io/muir-fionn/full/wgLJoY/)
 
