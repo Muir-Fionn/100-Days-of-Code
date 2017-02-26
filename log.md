@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 56: 26 February 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Made a Notebook for Daily CSS Images challenge
+
+**Thoughts:** Started working towards building singe div drawings today using linear gradients and box shadows rather than multiple divs.
+
+**Link to work:** [DailyCSSImages - Notebook](http://codepen.io/muir-fionn/full/MpYdbL)
+
 ### Day 55: 25 February 2017
 
 [] (##### (delete me or comment me out))
@@ -32,7 +42,7 @@
 
 [] (##### (delete me or comment me out))
 
-**Today's Progress:** Made an ruler for the Daily CSS Images Challenge
+**Today's Progress:** Made a ruler for the Daily CSS Images Challenge
 
 **Thoughts:** Trying out SCSS and using variable names.  Need to review a few more tutorials before I'm comfortable building functions, which might allow me to DRY my CSS code a little.
 
