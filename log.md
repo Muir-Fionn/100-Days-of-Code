@@ -1,5 +1,43 @@
 # 100 Days Of Code - Log
 
+### Day 55: 25 February 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Completed the CodInGame Puzzle of the Week in Python
+
+**Thoughts:** It was and interesting challenge to think through and gave the ability to refactor code for efficiency.
+
+**Link to work:** [Puzzle of the Week](https://www.codingame.com/ide/69964617d7832cf6f443066d5d8af2b2bea7bb5)
+
+### Day 54: 24 February 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Started the CodInGame Puzzle of the week.
+
+**Thoughts:** Coding late today and it's showing.  I have the general form of working code, but missing something for the edge cases. Sleep now, I'll figure out where I went wrong tomorrow
+
+**Link to work:** [Puzzle of the Week](https://www.codingame.com/ide/69964617d7832cf6f443066d5d8af2b2bea7bb5)
+
+### Day 53: 23 February 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Completed Finger Exercises for MIT's [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9).
+
+**Thoughts:** Learning about classes and inheritence in Python. Practiced defining methods for classes and using classes to better organize code.
+
+### Day 52: 22 February 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Made an ruler for the Daily CSS Images Challenge
+
+**Thoughts:** Trying out SCSS and using variable names.  Need to review a few more tutorials before I'm comfortable building functions, which might allow me to DRY my CSS code a little.
+
+**Link to work:** [DailyCSSImages - Ruler](http://codepen.io/muir-fionn/pen/ZezjEK)
+
 ### Day 51: 21 February 2017
 
 [] (##### (delete me or comment me out))
