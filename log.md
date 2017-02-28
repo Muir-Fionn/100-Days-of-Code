@@ -4,6 +4,16 @@
 
 [] (##### (delete me or comment me out))
 
+**Today's Progress:** Made a simple daily flip calendar for Daily CSS Images challenge
+
+**Thoughts:** Used a single div for the drawing, though I containded it in a box div just for simplicity.
+
+**Link to work:** [DailyCSSImages - Calendar](http://codepen.io/muir-fionn/full/EWVaBG)
+
+### Day 56: 26 February 2017
+
+[] (##### (delete me or comment me out))
+
 **Today's Progress:** Made a Notebook for Daily CSS Images challenge
 
 **Thoughts:** Started working towards building singe div drawings today using linear gradients and box shadows rather than multiple divs.
