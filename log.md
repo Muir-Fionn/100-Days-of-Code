@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 57: 27 February 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Made a walnut pencil holder for Daily CSS Images challenge
+
+**Thoughts:** Used two divs for the drawing, one for the holder and on for the pencils.
+
+**Link to work:** [DailyCSSImages - Pencil Holder](http://codepen.io/muir-fionn/full/aJvPdL/)
+
 ### Day 56: 26 February 2017
 
 [] (##### (delete me or comment me out))
