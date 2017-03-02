@@ -196,7 +196,7 @@
 
 **Thoughts:** Review of everything learned so far. Lots of working with lists, dictionaries and tuples. Will post link to solutions after the midterm closes to repsect honor code.
 
-**Link to work:** [Midterm]()
+**Link to work:** [Midterm](https://gist.github.com/Muir-Fionn/795524854fe4e2859091ebd7890f9452)
 
 ### Day 39: 09 February 2017
 
