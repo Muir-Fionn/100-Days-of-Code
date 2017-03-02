@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 57: 27 February 2017
+### Day 59: 01 March 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Completed a challenge on [HackerRank](https://www.hackerrank.com) in python.
+
+**Thoughts:** Practiced using Exception Handling in python to identify EOF condition for unknown input.
+
+**Link to work:** [30 Days of Code - Dictionaries and Maps](https://gist.github.com/Muir-Fionn/aee6d20555d118831f71f512772b1302)
+
+### Day 58: 28 February 2017
 
 [] (##### (delete me or comment me out))
 
@@ -10,7 +20,7 @@
 
 **Link to work:** [DailyCSSImages - Pencil Holder](http://codepen.io/muir-fionn/full/aJvPdL/)
 
-### Day 56: 26 February 2017
+### Day 57: 27 February 2017
 
 [] (##### (delete me or comment me out))
 
