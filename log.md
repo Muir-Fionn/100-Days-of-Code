@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 60: 02 March 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Made a Pizza for Daily CSS Images challenge.
+
+**Thoughts:** Into the food challenges, just going to make me hungry. Practiced using SCSS functions to make the pepperoni from linear gradients.
+
+**Link to work:** [DailyCSSImages - Pizza](http://codepen.io/muir-fionn/full/ryewZB)
+
 ### Day 59: 01 March 2017
 
 [] (##### (delete me or comment me out))
@@ -14,7 +24,7 @@
 
 [] (##### (delete me or comment me out))
 
-**Today's Progress:** Made a walnut pencil holder for Daily CSS Images challenge
+**Today's Progress:** Made a walnut Pencil Jar for Daily CSS Images challenge
 
 **Thoughts:** Used two divs for the drawing, one for the holder and on for the pencils.
 
