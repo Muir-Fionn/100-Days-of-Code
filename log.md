@@ -4,6 +4,16 @@
 
 [] (##### (delete me or comment me out))
 
+**Today's Progress:** Finished my Grilling Hamburger for Daily CSS Images. Added the hamburger buns and finalized animations.
+
+**Thoughts:** Good practice with animations. Used SCSS function and for loop for sesame seeds on the bun. Huzzah!
+
+**Link to work:** [DailyCSSImages - Hamburger](http://codepen.io/muir-fionn/full/ZeOEBm)
+
+### Day 62: 04 March 2017
+
+[] (##### (delete me or comment me out))
+
 **Today's Progress:** Added coals, hamburger patties and an onion for my hamburger for Daily CSS Images challenge.
 
 **Thoughts:** Made animations for all of these elements.  Last step is adding and animating the hamburger buns.
