@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 62: 04 March 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Added coals, hamburger patties and an onion for my hamburger for Daily CSS Images challenge.
+
+**Thoughts:** Made animations for all of these elements.  Last step is adding and animating the hamburger buns.
+
+**Link to work:** [DailyCSSImages - Hamburger](http://codepen.io/muir-fionn/full/ZeOEBm)
+
 ### Day 61: 03 March 2017
 
 [] (##### (delete me or comment me out))
