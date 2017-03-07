@@ -1,6 +1,26 @@
 # 100 Days Of Code - Log
 
-### Day 62: 04 March 2017
+### Day 65: 07 March 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Added Cheesecake and pie to my picnic to complete two challenges for Daily CSS Images.
+
+**Thoughts:** More experience working with SCSS to DRY out my code.  Could probably bring in another mixin or two, but pretty happy with it overall.
+
+**Link to work:** [DailyCSSImages - Picnic](http://codepen.io/muir-fionn/full/OpRdze)
+
+### Day 64: 06 March 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Made Tacos for Daily CSS Images. Laid out locations for the rest of the picnic spread.
+
+**Thoughts:** Used SCSS for loop, function, and mixin to DRY out my code a bit.  Liking SCSS functionality so far.
+
+**Link to work:** [DailyCSSImages - Picnic](http://codepen.io/muir-fionn/full/OpRdze)
+
+### Day 63: 05 March 2017
 
 [] (##### (delete me or comment me out))
 
