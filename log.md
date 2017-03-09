@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 66: 08 March 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Made a javascript calculator for FreeCodeCamp.  One step closer to the front end certificate.
+
+**Thoughts:** Feel like some of the code is a littl clunky.  I may go back and change a few things tomorrow morning to clean up the code.
+
+**Link to work:** [FreeCodeCamp - JavaScript Calculator](http://codepen.io/muir-fionn/full/MpJJvo?editors=0010)
+
 ### Day 65: 07 March 2017
 
 [] (##### (delete me or comment me out))
