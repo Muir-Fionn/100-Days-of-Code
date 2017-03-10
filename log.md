@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 67: 09 March 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Made the layout and simple functions for a pomodoro clock for FreeCodeCamp.  Now to make the timer actually countdown.
+
+**Thoughts:** Spent a lot of time focusing on making the font-size responsive to page width to prevent title and timer text from overflowing the screen/container.  While scaling down was straightforward, getting it to scale back up was a bit trickier.  
+
+**Link to work:** [FreeCodeCamp - Pomodoro Clock](http://codepen.io/muir-fionn/full/WpRmrb)
+
 ### Day 66: 08 March 2017
 
 [] (##### (delete me or comment me out))
@@ -8,7 +18,7 @@
 
 **Thoughts:** Feel like some of the code is a littl clunky.  I may go back and change a few things tomorrow morning to clean up the code.
 
-**Link to work:** [FreeCodeCamp - JavaScript Calculator](http://codepen.io/muir-fionn/full/MpJJvo?editors=0010)
+**Link to work:** [FreeCodeCamp - JavaScript Calculator](http://codepen.io/muir-fionn/full/MpJJvo)
 
 ### Day 65: 07 March 2017
 
