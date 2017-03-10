@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 68: 10 March 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Finished the pomodoro clock for FreeCodeCamp.
+
+**Thoughts:** Countdown code was simpler than I exepected.  Biggest thing was working with setDelay and setInterval properly.
+
+**Link to work:** [FreeCodeCamp - Pomodoro Clock](http://codepen.io/muir-fionn/full/WpRmrb)
+
 ### Day 67: 09 March 2017
 
 [] (##### (delete me or comment me out))
