@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 69: 11 March 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Experimented with botkit to understand how to use it to build a slackbot.
+
+**Thoughts:** Mostly working in Node.js, Git and command line today.  Read through and made small modifications to the example code to better understand how to use the framework.
+
+**Link to work:** [Botkit Repository](https://github.com/howdyai/botkit)
+
 ### Day 68: 10 March 2017
 
 [] (##### (delete me or comment me out))
