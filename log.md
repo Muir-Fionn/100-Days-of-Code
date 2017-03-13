@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 70: 12 March 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Used the template from botkit to set up a basic SlackBot and built a skill to add items to the grocery list.
+
+**Thoughts:** Learned a lot about Git and the Slack API.
+
+**Link to work:** [Chingu Bot - Grocer List Bot](https://github.com/Muir-Fionn/Slackbot-Using-Botkit/blob/master/botkit/ChinguBot/grocerListBot.js)
+
 ### Day 69: 11 March 2017
 
 [] (##### (delete me or comment me out))
