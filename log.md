@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 71: 13 March 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** More work on the slackbot.  Improved add skill from yesterday and added a clear all skill.
+
+**Thoughts:** Building the bot is actually pretty simple and fun.  Working in chunks to reduce bugs and allow feedback from team members to new features.
+
+**Link to work:** [Chingu Bot - Grocer List Bot](https://github.com/Muir-Fionn/Slackbot-Using-Botkit/blob/master/botkit/ChinguBot/grocerListBot.js)
+
 ### Day 70: 12 March 2017
 
 [] (##### (delete me or comment me out))
