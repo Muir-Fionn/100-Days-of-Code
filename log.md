@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 72: 14 March 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Started working on my FCC Tic-Tac-Toe project.
+
+**Thoughts:** Funnest part was making the sliders to choose number of players and choice symbol.  Based them on a reference pen on CodePen.  HTML and CSS are complete.  Now working on writing the JS.
+
+**Link to work:** [FreeCodeCamp - Tic Tac Toe](http://codepen.io/muir-fionn/full/bqRypq/)
+
 ### Day 71: 13 March 2017
 
 [] (##### (delete me or comment me out))
