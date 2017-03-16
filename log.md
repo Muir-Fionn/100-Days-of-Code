@@ -8,7 +8,7 @@
 
 **Thoughts:** Actually pretty proud of this one. Not designed for mobile yet, but that will come.
 
-**Link to work:** [30Days30Sites - Day1 - Portfolio](http://codepen.io/muir-fionn/full/yMzPGW/)
+**Link to work:** [30Days30Sites - Portfolio (Codepen)](http://codepen.io/muir-fionn/full/yMzPGW/) || [30Days30Sites - Portfolio (GitHub)](https://gist.github.com/Muir-Fionn/61b6cb07beba9f8729be7cf2a79c996d)
 
 ### Day 72: 14 March 2017
 
