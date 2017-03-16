@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 73: 15 March 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Day 1 of 30Days30Sites.  Built a portfolio.
+
+**Thoughts:** Actually pretty proud of this one. Not designed for mobile yet, but that will come.
+
+**Link to work:** [30Days30Sites - Day1 - Portfolio](http://codepen.io/muir-fionn/full/yMzPGW/)
+
 ### Day 72: 14 March 2017
 
 [] (##### (delete me or comment me out))
