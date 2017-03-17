@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 74: 16 March 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Day 2 of 30Days30Sites.  Built an Event Invitation.
+
+**Thoughts:** Used pop-up modals to keep the main UI minimal while allowing the option for further information.
+
+**Link to work:** [30Days30Sites - Event Invite (Codepen)](http://codepen.io/muir-fionn/full/BWmLpq/) || [30Days30Sites - Event Invite (GitHub)](https://gist.github.com/Muir-Fionn/15797b39f4b8a6a413a7b15c1d5fc83b)
+
 ### Day 73: 15 March 2017
 
 [] (##### (delete me or comment me out))
