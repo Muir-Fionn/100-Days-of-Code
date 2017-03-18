@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 75: 17 March 2017
+
+[] (##### (delete me or comment me out))
+
+**Today's Progress:** Day 3 of 30Days30Sites.  Built a website for Pikes Peak in Colorodo, USA.
+
+**Thoughts:** Simplest site yet.  Single Page, with minimal links and no modals.  Again used an image of a google map rather than integrating the API due to time constraints.
+
+**Link to work:** [30Days30Sites - Tourist Attraction (Codepen)](http://codepen.io/muir-fionn/full/jBYbOw) || [30Days30Sites - Tourist Attraction (GitHub)](https://gist.github.com/Muir-Fionn/dc4230b17af7bf2fc9c793facaee73cc)
+
 ### Day 74: 16 March 2017
 
 [] (##### (delete me or comment me out))
