@@ -2,8 +2,6 @@
 
 ### Day 75: 17 March 2017
 
-[] (##### (delete me or comment me out))
-
 **Today's Progress:** Day 3 of 30Days30Sites.  Built a website for Pikes Peak in Colorodo, USA.
 
 **Thoughts:** Simplest site yet.  Single Page, with minimal links and no modals.  Again used an image of a google map rather than integrating the API due to time constraints.
@@ -11,8 +9,6 @@
 **Link to work:** [30Days30Sites - Tourist Attraction (Codepen)](http://codepen.io/muir-fionn/full/jBYbOw) || [30Days30Sites - Tourist Attraction (GitHub)](https://gist.github.com/Muir-Fionn/dc4230b17af7bf2fc9c793facaee73cc)
 
 ### Day 74: 16 March 2017
-
-[] (##### (delete me or comment me out))
 
 **Today's Progress:** Day 2 of 30Days30Sites.  Built an Event Invitation.
 
@@ -22,8 +18,6 @@
 
 ### Day 73: 15 March 2017
 
-[] (##### (delete me or comment me out))
-
 **Today's Progress:** Day 1 of 30Days30Sites.  Built a portfolio.
 
 **Thoughts:** Actually pretty proud of this one. Not designed for mobile yet, but that will come.
@@ -31,8 +25,6 @@
 **Link to work:** [30Days30Sites - Portfolio (Codepen)](http://codepen.io/muir-fionn/full/yMzPGW/) || [30Days30Sites - Portfolio (GitHub)](https://gist.github.com/Muir-Fionn/61b6cb07beba9f8729be7cf2a79c996d)
 
 ### Day 72: 14 March 2017
-
-[] (##### (delete me or comment me out))
 
 **Today's Progress:** Started working on my FCC Tic-Tac-Toe project.
 
@@ -42,8 +34,6 @@
 
 ### Day 71: 13 March 2017
 
-[] (##### (delete me or comment me out))
-
 **Today's Progress:** More work on the slackbot.  Improved add skill from yesterday and added a clear all skill.
 
 **Thoughts:** Building the bot is actually pretty simple and fun.  Working in chunks to reduce bugs and allow feedback from team members to new features.
@@ -51,8 +41,6 @@
 **Link to work:** [Chingu Bot - Grocer List Bot](https://github.com/Muir-Fionn/Slackbot-Using-Botkit/blob/master/botkit/ChinguBot/grocerListBot.js)
 
 ### Day 70: 12 March 2017
-
-[] (##### (delete me or comment me out))
 
 **Today's Progress:** Used the template from botkit to set up a basic SlackBot and built a skill to add items to the grocery list.
 
@@ -62,8 +50,6 @@
 
 ### Day 69: 11 March 2017
 
-[] (##### (delete me or comment me out))
-
 **Today's Progress:** Experimented with botkit to understand how to use it to build a slackbot.
 
 **Thoughts:** Mostly working in Node.js, Git and command line today.  Read through and made small modifications to the example code to better understand how to use the framework.
@@ -71,8 +57,6 @@
 **Link to work:** [Botkit Repository](https://github.com/howdyai/botkit)
 
 ### Day 68: 10 March 2017
-
-[] (##### (delete me or comment me out))
 
 **Today's Progress:** Finished the pomodoro clock for FreeCodeCamp.
 
@@ -82,8 +66,6 @@
 
 ### Day 67: 09 March 2017
 
-[] (##### (delete me or comment me out))
-
 **Today's Progress:** Made the layout and simple functions for a pomodoro clock for FreeCodeCamp.  Now to make the timer actually countdown.
 
 **Thoughts:** Spent a lot of time focusing on making the font-size responsive to page width to prevent title and timer text from overflowing the screen/container.  While scaling down was straightforward, getting it to scale back up was a bit trickier.  
@@ -91,8 +73,6 @@
 **Link to work:** [FreeCodeCamp - Pomodoro Clock](http://codepen.io/muir-fionn/full/WpRmrb)
 
 ### Day 66: 08 March 2017
-
-[] (##### (delete me or comment me out))
 
 **Today's Progress:** Made a javascript calculator for FreeCodeCamp.  One step closer to the front end certificate.
 
@@ -102,8 +82,6 @@
 
 ### Day 65: 07 March 2017
 
-[] (##### (delete me or comment me out))
-
 **Today's Progress:** Added Cheesecake and pie to my picnic to complete two challenges for Daily CSS Images.
 
 **Thoughts:** More experience working with SCSS to DRY out my code.  Could probably bring in another mixin or two, but pretty happy with it overall.
@@ -111,8 +89,6 @@
 **Link to work:** [DailyCSSImages - Picnic](http://codepen.io/muir-fionn/full/OpRdze)
 
 ### Day 64: 06 March 2017
-
-[] (##### (delete me or comment me out))
 
 **Today's Progress:** Made Tacos for Daily CSS Images. Laid out locations for the rest of the picnic spread.
 
@@ -122,8 +98,6 @@
 
 ### Day 63: 05 March 2017
 
-[] (##### (delete me or comment me out))
-
 **Today's Progress:** Finished my Grilling Hamburger for Daily CSS Images. Added the hamburger buns and finalized animations.
 
 **Thoughts:** Good practice with animations. Used SCSS function and for loop for sesame seeds on the bun. Huzzah!
@@ -131,8 +105,6 @@
 **Link to work:** [DailyCSSImages - Hamburger](http://codepen.io/muir-fionn/full/ZeOEBm)
 
 ### Day 62: 04 March 2017
-
-[] (##### (delete me or comment me out))
 
 **Today's Progress:** Added coals, hamburger patties and an onion for my hamburger for Daily CSS Images challenge.
 
@@ -142,8 +114,6 @@
 
 ### Day 61: 03 March 2017
 
-[] (##### (delete me or comment me out))
-
 **Today's Progress:** Made a Grill background for my hamburger for Daily CSS Images challenge.
 
 **Thoughts:** More fun with gradients and pseudo elements to make the grill out of a single element with multiple layers of depth.  Tomorrow will work to add the food and animations.
@@ -151,8 +121,6 @@
 **Link to work:** [DailyCSSImages - Hamburger](http://codepen.io/muir-fionn/full/ZeOEBm)
 
 ### Day 60: 02 March 2017
-
-[] (##### (delete me or comment me out))
 
 **Today's Progress:** Made a Pizza for Daily CSS Images challenge.
 
@@ -162,8 +130,6 @@
 
 ### Day 59: 01 March 2017
 
-[] (##### (delete me or comment me out))
-
 **Today's Progress:** Completed a challenge on [HackerRank](https://www.hackerrank.com) in python.
 
 **Thoughts:** Practiced using Exception Handling in python to identify EOF condition for unknown input.
@@ -171,8 +137,6 @@
 **Link to work:** [30 Days of Code - Dictionaries and Maps](https://gist.github.com/Muir-Fionn/aee6d20555d118831f71f512772b1302)
 
 ### Day 58: 28 February 2017
-
-[] (##### (delete me or comment me out))
 
 **Today's Progress:** Made a walnut Pencil Jar for Daily CSS Images challenge
 
@@ -182,8 +146,6 @@
 
 ### Day 57: 27 February 2017
 
-[] (##### (delete me or comment me out))
-
 **Today's Progress:** Made a simple daily flip calendar for Daily CSS Images challenge
 
 **Thoughts:** Used a single div for the drawing, though I containded it in a box div just for simplicity.
@@ -191,8 +153,6 @@
 **Link to work:** [DailyCSSImages - Calendar](http://codepen.io/muir-fionn/full/EWVaBG)
 
 ### Day 56: 26 February 2017
-
-[] (##### (delete me or comment me out))
 
 **Today's Progress:** Made a Notebook for Daily CSS Images challenge
 
@@ -202,8 +162,6 @@
 
 ### Day 55: 25 February 2017
 
-[] (##### (delete me or comment me out))
-
 **Today's Progress:** Completed the CodInGame Puzzle of the Week in Python
 
 **Thoughts:** It was and interesting challenge to think through and gave the ability to refactor code for efficiency.
@@ -211,8 +169,6 @@
 **Link to work:** [Puzzle of the Week](https://www.codingame.com/ide/69964617d7832cf6f443066d5d8af2b2bea7bb5)
 
 ### Day 54: 24 February 2017
-
-[] (##### (delete me or comment me out))
 
 **Today's Progress:** Started the CodInGame Puzzle of the week.
 
@@ -222,15 +178,11 @@
 
 ### Day 53: 23 February 2017
 
-[] (##### (delete me or comment me out))
-
 **Today's Progress:** Completed Finger Exercises for MIT's [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9).
 
 **Thoughts:** Learning about classes and inheritence in Python. Practiced defining methods for classes and using classes to better organize code.
 
 ### Day 52: 22 February 2017
-
-[] (##### (delete me or comment me out))
 
 **Today's Progress:** Made a ruler for the Daily CSS Images Challenge
 
@@ -240,8 +192,6 @@
 
 ### Day 51: 21 February 2017
 
-[] (##### (delete me or comment me out))
-
 **Today's Progress:** Made an animated analog clo for the Daily CSS Images Challenge
 
 **Thoughts:** Played with animation and transform-origin to make a 'working' analog clock using pure CSS.  Also made up my own element names in html instead of using multiple divs with different class names.
@@ -249,8 +199,6 @@
 **Link to work:** [DailyCSSImages - Clock](http://codepen.io/muir-fionn/full/xgvvyO/)
 
 ### Day 50: 20 February 2017
-
-[] (##### (delete me or comment me out))
 
 **Today's Progress:** Finished pure CSS image of Toothless for the Daily CSS Images Challenge
 
@@ -260,8 +208,6 @@
 
 ### Day 49: 19 February 2017
 
-[] (##### (delete me or comment me out))
-
 **Today's Progress:** Started on a pure CSS image of Toothless for the Daily CSS Images Challenge
 
 **Thoughts:** This project has a lot of little add ons that made it more time consuming than I expected..
@@ -269,8 +215,6 @@
 **Link to work:** [DailyCSSImages - Toothless](http://codepen.io/muir-fionn/full/wgLJoY/)
 
 ### Day 48: 18 February 2017
-
-[] (##### (delete me or comment me out))
 
 **Today's Progress:** Made a pure CSS tiger image for the Daily CSS Images Challenge
 
@@ -280,8 +224,6 @@
 
 ### Day 47: 17 February 2017
 
-[] (##### (delete me or comment me out))
-
 **Today's Progress:** Made a pure CSS beaver image for the Daily CSS Images Challenge
 
 **Thoughts:** Built a body and tail this time intead of just a head.
@@ -289,8 +231,6 @@
 **Link to work:** [DailyCSSImages - Beaver](http://codepen.io/muir-fionn/full/JEqpRa/)
 
 ### Day 46: 16 February 2017
-
-[] (##### (delete me or comment me out))
 
 **Today's Progress:** Made a pure CSS elephant image for the Daily CSS Images Challenge
 
@@ -300,8 +240,6 @@
 
 ### Day 45: 15 February 2017
 
-[] (##### (delete me or comment me out))
-
 **Today's Progress:** Made a pure CSS bear cub image for the Daily CSS Images Challenge
 
 **Thoughts:** It was good practice taking a picture from my head into CSS.  Got practice working with inset box shadows to create depth and positioning.
@@ -309,8 +247,6 @@
 **Link to work:** [DailyCSSImages - Cub](http://codepen.io/muir-fionn/full/Qdoxxr/)
 
 ### Day 44: 14 February 2017
-
-[] (##### (delete me or comment me out))
 
 **Today's Progress:** Completed 2 easy practice challenges on CodInGame in python.
 
@@ -320,8 +256,6 @@
 
 ### Day 43: 13 February 2017
 
-[] (##### (delete me or comment me out))
-
 **Today's Progress:** Completed 4 easy practice challenges on CodInGame in python.
 
 **Thoughts:** Good practice in using loops and conditionals in python to solve in game problems.
@@ -329,8 +263,6 @@
 **Link to work:** [CodInGame-Easy Training](https://www.codingame.com/training/easy)
 
 ### Day 42: 12 February 2017
-
-[] (##### (delete me or comment me out))
 
 **Today's Progress:** Completed problems 6 and 7 for Problem Set 4 for MIT's [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9). Also refactored some of the given functions for problem 7 (ps4b.py) in order to decrease runntime for the computer's automated turn.
 
@@ -340,8 +272,6 @@
 
 ### Day 41: 11 February 2017
 
-[] (##### (delete me or comment me out))
-
 **Today's Progress:** On an python streak. Completed problems 1-5 for Problem Set 4 for MIT's [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9). Having grader issues on problem 6, though I have a solution coded. Will work on any debugging for problem 6 and the solution for problem 7 tomorrow.
 
 **Thoughts:** Building a basic IDE word game.  Practice with using modular functions, control flow, and analysing code to implement proper unit testing
@@ -349,8 +279,6 @@
 **Link to work:** [Problem Set 4](https://gist.github.com/Muir-Fionn/834e64fa85f0cd30729a8dd3426bdcd1)
 
 ### Day 40: 10 February 2017
-
-[] (##### (delete me or comment me out))
 
 **Today's Progress:** Completed the Midterm Problem Set for MIT's [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9).
 
@@ -360,8 +288,6 @@
 
 ### Day 39: 09 February 2017
 
-[] (##### (delete me or comment me out))
-
 **Today's Progress:** Completed Problem Set 3 for MIT's [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9).
 
 **Thoughts:** Simple Hangman game. This problem set emphasized separating the problem into individual steps and then building helper functions for these steps in order to efficiently problem solve.
@@ -369,8 +295,6 @@
 **Link to work:** [Problem Set 3](https://gist.github.com/Muir-Fionn/45b56e4542df7b3c8ef8a2b9f6c7bf2b)
 
 ### Day 38: 08 February 2017
-
-[] (##### (delete me or comment me out))
 
 **Today's Progress:** Completed Advanced Algorithm Scripting on FreeCodeCamp.
 
@@ -380,8 +304,6 @@
 
 ### Day 37: 07 February 2017
 
-[] (##### (delete me or comment me out))
-
 **Today's Progress:** Completed Friendly Date Ranges on FreeCodeCamp.
 
 **Thoughts:** This one was easier than No Repeats Please by far. I feel like my set up of all the conditionals to see if the date is within 1 year.  This is one of the algorithms that I'm going to mark for refactor next month.
@@ -389,8 +311,6 @@
 **Link to work:** [Friendly Date Ranges (FCC)](https://www.freecodecamp.com/challenges/friendly-date-ranges) || [Friendly Date Ranges (Code)](https://github.com/Muir-Fionn/FreeCodeCamp/blob/master/Advanced%20Algorithm%20Scripting/friendlyDateRanges.js)
 
 ### Day 36: 06 February 2017
-
-[] (##### (delete me or comment me out))
 
 **Today's Progress:** Finished No Repeats Please.
 
@@ -401,8 +321,6 @@
 
 ### Day 35: 05 February 2017
 
-[] (##### (delete me or comment me out))
-
 **Today's Progress:** Hit a wall on No Repeats Please for Free Code Camp.  Taking a break to do some more research on permutations.
 
 **Thoughts:** While I can identify my base cases, trying to find all possible permutations is a bit overwhelming. I've written out the high level logic and conditional tests for each base case for now.
@@ -410,8 +328,6 @@
 **Link to work:** [No Repeats Please (FCC)](https://www.freecodecamp.com/challenges/no-repeats-please)
 
 ### Day 34: 04 February 2017
-
-[] (##### (delete me or comment me out))
 
 **Today's Progress:** Built a simple Patatap Clone.
 
@@ -421,8 +337,6 @@
 
 ### Day 33: 03 February 2017
 
-[] (##### (delete me or comment me out))
-
 **Today's Progress:** Built a simple in browser To Do App using HTML/CSS and jQuery.
 
 **Thoughts:** Project for ["The Web Developer Bootcamp"](https://www.udemy.com/the-web-developer-bootcamp/) on Udemy.  Good practice using the this keyword in javascript when attaching event listeners.  Also learned how to apply event listeners using the on method so that the listener is add to future elements of the page as well without having to build a call a function everytime a list item is added.
@@ -430,8 +344,6 @@
 **Link to work:** [To Do List App (Codepen)](https://codepen.io/muir-fionn/full/OWZove/) || [To Do List App (Github)](https://github.com/Muir-Fionn/The-Web-Developer-Bootcamp/tree/master/Assignments/JS/To%20Do%20App)
 
 ### Day 32: 02 February 2017
-
-[] (##### (delete me or comment me out))
 
 **Today's Progress:** Built functions to satisfy Problem Set 2 for MIT 6.00.1x on edX.
 
@@ -441,8 +353,6 @@
 
 ### Day 31: 1 February 2017
 
-[] (##### (delete me or comment me out))
-
 **Today's Progress:** Completed four Advanced Algorithm Scripting challenges for FreeCodeCamp's Front End Development Certification.
 
 **Thoughts:** A couple of challenges working with forEach statements, but overall rather straightforward exercises.  I may go back and review the solutions in a week to see what refactoring can be done to the code, especially the ones that feel clunky.
@@ -450,8 +360,6 @@
 **Link to work:** [Advanced Algorithms](https://github.com/Muir-Fionn/FreeCodeCamp/tree/master/Advanced%20Algorithm%20Scripting) || [FreeCodeCamp](https://www.freecodecamp.com/muir-fionn)
 
 ### Day 30: 31 January 2017
-
-[] (##### (delete me or comment me out))
 
 **Today's Progress:** Completed the Intermidiate Algorithm Scripting section of FreeCodeCamp's Front End Development Certification.
 
@@ -461,8 +369,6 @@
 
 ### Day 29: 30 January 2017
 
-[] (##### (delete me or comment me out))
-
 **Today's Progress:** Completed a practice code interview problem on Interview Cake called "Apple Stocks" in Python
 
 **Thoughts:** Python's syntactic differences from JavaScript and C is my biggest struggle with the language.  This was most obvious on loops and conditional statements.  What can I say?  I like parentheses and braces.
@@ -470,8 +376,6 @@
 **Link to work:** [Apple Stocks](https://gist.github.com/Muir-Fionn/27395cadc9cc30d70352d40ffa3c0527)
 
 ### Day 28: 29 January 2017
-
-[] (##### (delete me or comment me out))
 
 **Today's Progress:** Finished the Twitch JSON API app for FreeCodeCamp.  Completed JavaScript DOM logic and cleaned up UI.
 
@@ -481,8 +385,6 @@
 
 ### Day 27: 28 January 2017
 
-[] (##### (delete me or comment me out))
-
 **Today's Progress:** Started on the Twitch JSON API app for FreeCodeCamp.  Built HTML/CSS base.  Started on JavaScript logic.
 
 **Thoughts:** AJAX calls are becoming simpler.  Now it's just playing around with what's returned to ensure that I meet the user stories in the most effective way.
@@ -490,8 +392,6 @@
 **Link to work:** [Twitch JSON API](https://codepen.io/muir-fionn/full/YNEXva/)
 
 ### Day 26: 27 January 2017
-
-[] (##### (delete me or comment me out))
 
 **Today's Progress:** Started learning python. Built functions to satisfy Problem Set 1 for MIT 6.00.1x on edX.
 
@@ -501,8 +401,6 @@
 
 ### Day 25: 26 January 2017
 
-[] (##### (delete me or comment me out))
-
 **Today's Progress:** Built in browsesr RGB Color Guessing Game.
 
 **Thoughts:** Logic was straightforward.  Great practice figuring out when/how to use the this keyword and breaking down code into functions.
@@ -510,8 +408,6 @@
 **Link to work:** [Color Game (Codepen)](https://codepen.io/muir-fionn/full/jyaPrR/) || [Color Game (Github)](https://github.com/Muir-Fionn/The-Web-Developer-Bootcamp/tree/master/Assignments/JS/Color%20Game)
 
 ### Day 24: 25 January 2017
-
-[] (##### (delete me or comment me out))
 
 **Today's Progress:** Wrote JavaScript logic to finish Wikipedia viewer.
 
@@ -521,8 +417,6 @@
 
 ### Day 23: 24 January 2017
 
-[] (##### (delete me or comment me out))
-
 **Today's Progress:** Built HTML/CSS framework on Wikipedia Viewer for FreeCodeCamp.
 
 **Thoughts:** Played with Navbar and Jumbotron in Bootstrap.
@@ -530,8 +424,6 @@
 **Link to work:** [Wikipedia Viewer](https://codepen.io/muir-fionn/full/NdgLbO/)
 
 ### Day 22: 23 January 2017
-
-[] (##### (delete me or comment me out))
 
 **Today's Progress:** Solved 3 Challenges for HackerRank 30 Days of Code in JavaScript.
 
@@ -541,8 +433,6 @@
 
 ### Day 21: 22 January 2017
 
-[] (##### (delete me or comment me out))
-
 **Today's Progress:** Built Color Toggle and Score Keeper apps in javascript to practice DOM manipulation.
 
 **Thoughts:** DOM manipulation is a little tricky, but I'm looking forward to the things that it will enable as I get more familiar with it.
@@ -550,8 +440,6 @@
 **Link to work:** [Color Toggle](https://github.com/Muir-Fionn/The-Web-Developer-Bootcamp/blob/master/Assignments/JS/colorToggle.js) || [Score Keeper](https://github.com/Muir-Fionn/The-Web-Developer-Bootcamp/blob/master/Assignments/JS/scoreKeeper.js)
 
 ### Day 20: 21 January 2017
-
-[] (##### (delete me or comment me out))
 
 **Today's Progress:** Built a personal movie database to practice with nested arrays and objects. Also attempted some work on the HackerRank phonebook challenge in C, but had difficulty passing and accessing my struct in functions. 
 
@@ -561,8 +449,6 @@
 
 ### Day 19: 20 January 2017
 
-[] (##### (delete me or comment me out))
-
 **Today's Progress:** Built a basic array To Do list to function in the javascript console. Also practiced with forEach method and looping over arrays.
 
 **Thoughts:** Very basic system.  Main point was to generate experience with javascript arrays and work out the basic logic. May expand this into an app after I have a better grasp on DOM manipulation.
@@ -571,13 +457,9 @@
 
 ### Day 18.5: 19 January 2017
 
-[] (##### (delete me or comment me out))
-
 **Today's Progress:** Did lessons on Udemy and SoloLearn, but work and family commitments overlapped so that I didn't actually make it to adding in an hour of focused coding.
 
 ### Day 18: 18 January 2017
-
-[] (##### (delete me or comment me out))
 
 **Today's Progress:** Added text for About Me and Example Summary on my personal portfolio.  Also completed a simple JavaScript Function Exercise for The Web Developer Bootcamp and a C algorithm for HackerRank.
 
@@ -587,8 +469,6 @@
 
 ### Day 17: 17 January 2017
 
-[] (##### (delete me or comment me out))
-
 **Today's Progress:** Completed two challenges on HackerRank
 
 **Thoughts:** Woking in C and Bash practicing loops and conditional statements.  Also completed a couple of JavaScript lessons in The Web Developer Bootcamp.
@@ -596,8 +476,6 @@
 **Link to work:** [HackerRank (Bash)](https://www.hackerrank.com/domains/shell/bash) || [HackerRank (C)](https://www.hackerrank.com/domains/algorithms/warmup)
 
 ### Day 16: 16 January 2017
-
-[] (##### (delete me or comment me out))
 
 **Today's Progress:** Built weather app using the APIXU API and minimal HTML/CSS.
 
@@ -607,8 +485,6 @@
 
 ### Day 15: 15 January 2017
 
-[] (##### (delete me or comment me out))
-
 **Today's Progress:** Worked on Conditional Statements and Class vs Instance challenges for Hackerrank's 30 Days of Code
 
 **Thoughts:** Straightforward exercises, built and tested one function at a time.
@@ -616,8 +492,6 @@
 **Link to work:** [Conditional Statements](https://gist.github.com/Muir-Fionn/55e80c93c5265d926d3de4188a679a09) || [Class vs Instance](https://gist.github.com/Muir-Fionn/4ae9ae01808ab8dbe48409bea8e7da64)
 
 ### Day 14: 14 January 2017
-
-[] (##### (delete me or comment me out))
 
 **Today's Progress:** Wrote basic javascript algorithms using conditional statements, while and for loops; including FizzBuzz.
 
@@ -627,8 +501,6 @@
 
 ### Day 13: 13 January 2017
 
-[] (##### (delete me or comment me out))
-
 **Today's Progress:** Worked on Data Types and Operators challenges for Hackerrank's 30 Days of Code
 
 **Thoughts:** Good exercieses to build back up my familiarity with C
@@ -636,8 +508,6 @@
 **Link to work:** [Data Types](https://gist.github.com/Muir-Fionn/9df7f914089465e89ebda0a7f463469c) || [Operators](https://gist.github.com/Muir-Fionn/30fa268cd1d7b49daf32b1f4d05f2148)
 
 ### Day 12: 12 January 2017
-
-[] (##### (delete me or comment me out))
 
 **Today's Progress:** Worked on Ordinary Ordinals and Title Case challenges for CS50x Hackathon on Hackerrank
 
@@ -647,8 +517,6 @@
 
 ### Day 11: 11 January 2017
 
-[] (##### (delete me or comment me out))
-
 **Today's Progress:** Completed CodeWars kata and wrote basic pixel paint program in HTML/JS
 
 **Thoughts:** The pixel painter was a simple program after the random quote generator, but kept me working with JavaScript without too much focus on the HTML/CSS side.  
@@ -656,8 +524,6 @@
 **Link to work:** [Pixel Painter](https://gist.github.com/Muir-Fionn/89e70ffbfe6940d9fd94bdad7998d943)
 
 ### Day 10: 10 January 2017
-
-[] (##### (delete me or comment me out))
 
 **Today's Progress:** Finished off Random Quote Generator
 
@@ -667,8 +533,6 @@
 
 ### Day 9: 09 January 2017
 
-[] (##### (delete me or comment me out))
-
 **Today's Progress:** Worked on API integration for Random Quote Generator
 
 **Thoughts:** I'm not sure if it's codepen, the website I'm trying to use, or just me, but I am really struggling to figure out the AJAX request for the quote API that I need to use.  I'll do some more research tomorrow and try again.
@@ -676,8 +540,6 @@
 **Link to work:** [Random Quote Generator](http://codepen.io/muir-fionn/pen/apzZNz)
 
 ### Day 8: 08 January 2017
-
-[] (##### (delete me or comment me out))
 
 **Today's Progress:** Completed two basic kata (algorithm challenges) on CodeWars in C: Playing with Digits and Consecutive Strings
 
@@ -687,8 +549,6 @@
 
 ### Day 7: 07 January 2017
 
-[] (##### (delete me or comment me out))
-
 **Today's Progress:** Complete rework of my personal portfolio.  Worked on general layout and responsiveness today.
 
 **Thoughts:** I found it was easier for me to work in the Atom text editor than in Codepen. Used a different layout scheme that turned out much easier to encode for responsiveness. Feel confident about the layout.  Now to edit colors and add proper links/photos. 
@@ -696,8 +556,6 @@
 **Link to work:** [Portfolio Rework](https://gist.github.com/Muir-Fionn/899e737ef4dfb7efdff46d7835d2b178)
 
 ### Day 6: 06 January 2017
-
-[] (##### (delete me or comment me out))
 
 **Today's Progress:** Edited HTML/CSS for personal profile. Added contact form.
 
@@ -707,8 +565,6 @@
 
 ### Day 5: 05 January 2017
 
-[] (##### (delete me or comment me out))
-
 **Today's Progress:** Designed HTML and CSS for random quote generator.
 
 **Thoughts:** Need to work with twitter font awesome icon in order to align it within a button element properly.  Still not fully comfortable with CSS or design layout.
@@ -716,8 +572,6 @@
 **Link to work:** [Random Quote Generator](http://codepen.io/muir-fionn/pen/apzZNz)
 
 ### Day 4: 04 January 2017
-
-[] (##### (delete me or comment me out))
 
 **Today's Progress:** Finished Tic-Tac-Toe game.
 
@@ -727,8 +581,6 @@
 
 ### Day 3: 03 January 2017
 
-[] (##### (delete me or comment me out))
-
 **Today's Progress:** Finished boxSelect and newBoard functions.
 
 **Thoughts:** Extra research and a couple of tutorial practices on Free Code Camp helped me figure out the onclick targeting issues for boxSelect.  Got further practice with newGame function.  Going to add the board test logic tomorrow and complete this project.
@@ -737,8 +589,6 @@
 
 ### Day 2: 02 January 2017
 
-[] (##### (delete me or comment me out))
-
 **Today's Progress:** Started on javascript logic.
 
 **Thoughts:** Having trouble determining how to target individual cells.  Taking a break and will try again tomorrow.
@@ -746,8 +596,6 @@
 **Link to work:** [Tic-Tac-Toe](http://codepen.io/muir-fionn/pen/MJWXjG)
 
 ### Day 1: 01 January 2017
-
-[] (##### (delete me or comment me out))
 
 **Today's Progress:** Built Layout for Tic-Tac-Toe board in HTML/CSS using Bootstrap
 
