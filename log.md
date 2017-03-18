@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 76: 18 March 2017
+
+**Today's Progress:** Day 4 of 30Days30Sites.  Built a product landing page.
+
+**Thoughts:** Didn't make the download button functional, but general template is there.  Used Flexbox to make it a bit more responsive this time around.
+
+**Link to work:** [30Days30Sites - Product (Codepen)](http://codepen.io/muir-fionn/full/JWMWQJ) || [30Days30Sites - Product (GitHub)](https://gist.github.com/Muir-Fionn/ff43f2c60607a62d5193b5c781870f4a)
+
 ### Day 75: 17 March 2017
 
 **Today's Progress:** Day 3 of 30Days30Sites.  Built a website for Pikes Peak in Colorodo, USA.
