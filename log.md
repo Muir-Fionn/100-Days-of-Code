@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 77: 19 March 2017
+
+**Today's Progress:** Day 5 of 30Days30Sites.  Built a restaurant menu.
+
+**Thoughts:** Template using flexbox for a menu site.  Used javascript to fill in placeholder elements.  Would need to update the code in order to use it for a real menu.
+
+**Link to work:** [30Days30Sites - Menu (Codepen)](http://codepen.io/muir-fionn/full/MprZmd) || [30Days30Sites - Menu (GitHub)](https://gist.github.com/Muir-Fionn/f5288135b95bb2e784aae5f6b8376fc7)
+
 ### Day 76: 18 March 2017
 
 **Today's Progress:** Day 4 of 30Days30Sites.  Built a product landing page.
