@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 79: 21 March 2017
+
+**Today's Progress:** Day 7 of 30Days30Sites.  Built a movie trailer site.
+
+**Thoughts:** Simple site based on the Life movie coming out this week.
+
+**Link to work:** [30Days30Sites - Trailer (Codepen)](http://codepen.io/muir-fionn/full/YZaaBm) || [30Days30Sites - Trailer (GitHub)](https://gist.github.com/Muir-Fionn/b43ada85eaed8c342fcb1cbdd811c10a)
+
+### Day 78: 20 March 2017
+
+**Today's Progress:** Day 6 of 30Days30Sites.  Built a restaurant menu.
+
+**Thoughts:** Template using flexbox for a menu site.  Used javascript to fill in placeholder elements.  Would need to update the code in order to use it for a real menu.
+
+**Link to work:** [30Days30Sites - Book (Codepen)](http://codepen.io/muir-fionn/full/MpQZwq) || [30Days30Sites - Book (GitHub)](https://gist.github.com/Muir-Fionn/f3e7b221a04d80813fade5a166d2e42d)
+
 ### Day 77: 19 March 2017
 
 **Today's Progress:** Day 5 of 30Days30Sites.  Built a restaurant menu.
