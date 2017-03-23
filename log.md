@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 80: 22 March 2017
+
+**Today's Progress:** Day 8 of 30Days30Sites.  Built a fan page for Leslie Nielson.
+
+**Thoughts:** Quick work tonight. Learned to make a simple photo slideshow using CSS and JS.
+
+**Link to work:** [30Days30Sites - Fan Page (Codepen)](http://codepen.io/muir-fionn/full/xqjOgp) || [30Days30Sites - Fan Page (GitHub)](https://gist.github.com/Muir-Fionn/67939a9c788858d79fbba4e7bed09dad)
+
 ### Day 79: 21 March 2017
 
 **Today's Progress:** Day 7 of 30Days30Sites.  Built a movie trailer site.
