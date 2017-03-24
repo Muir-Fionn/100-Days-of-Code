@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 82: 24 March 2017
+
+**Today's Progress:** Day 10 of 30Days30Sites.  Built a photographers portfolio page.
+
+**Thoughts:** Now that I've learned to make slideshows, I'm starting to realize why they are used so often. Had fun making the slideshow and grid view buttons.
+
+**Link to work:** [30Days30Sites - Photographer (Codepen)](http://codepen.io/muir-fionn/full/mWKaLy) || [30Days30Sites - Photographer (GitHub)](https://gist.github.com/Muir-Fionn/29152a2450d8969bf3403af0acd86b41)
+
 ### Day 81: 23 March 2017
 
 **Today's Progress:** Day 9 of 30Days30Sites.  Built a child's toy product page.
