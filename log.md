@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 81: 23 March 2017
+
+**Today's Progress:** Day 9 of 30Days30Sites.  Built a child's toy product page.
+
+**Thoughts:** More experience with @media and cycling elements using CSS and JS. Also made the toolbar dropdown responsive.
+
+**Link to work:** [30Days30Sites - Toy Page (Codepen)](http://codepen.io/muir-fionn/full/mWKOpM) || [30Days30Sites - Toy Page (GitHub)](https://gist.github.com/Muir-Fionn/f10fb24ac58360f06bc7be4f6daa9d68)
+
 ### Day 80: 22 March 2017
 
 **Today's Progress:** Day 8 of 30Days30Sites.  Built a fan page for Leslie Nielson.
