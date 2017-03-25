@@ -8,7 +8,9 @@
 
 ## My Journey
 Started: 01 Jan 2017
+
 End Date(Expected): 10 Apr 2017
+
 End Date(Actual): ```undefined```
 
 Goals:
