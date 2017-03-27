@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 84: 26 March 2017
+
+**Today's Progress:** Day 12 of 30Days30Sites.  Started designing a club homepage.
+
+**Thoughts:** Laid out HTML. Wrote javascript to build out most of the HTML. Still need to add event listeners and write most of the CSS.
+
+**Link to work:** [30Days30Sites - Club Page (Codepen)](http://codepen.io/muir-fionn/full/GWBwbP) || [30Days30Sites - Club Page (GitHub)](https://muir-fionn.github.io/Club-Website-Template/)
+
 ### Day 83: 25 March 2017
 
 **Today's Progress:** Day 11 of 30Days30Sites.  Built a food truck landing page.
@@ -505,7 +513,7 @@
 
 ### Day 20: 21 January 2017
 
-**Today's Progress:** Built a personal movie database to practice with nested arrays and objects. Also attempted some work on the HackerRank phonebook challenge in C, but had difficulty passing and accessing my struct in functions. 
+**Today's Progress:** Built a personal movie database to practice with nested arrays and objects. Also attempted some work on the HackerRank phonebook challenge in C, but had difficulty passing and accessing my struct in functions.
 
 **Thoughts:** Not being able to figure out the phone book challenge in HackerRank was frustrating. Going to try using two arrays instead of a struct tomorrow and see if I have better luck there.
 
@@ -615,7 +623,7 @@
 
 **Today's Progress:** Complete rework of my personal portfolio.  Worked on general layout and responsiveness today.
 
-**Thoughts:** I found it was easier for me to work in the Atom text editor than in Codepen. Used a different layout scheme that turned out much easier to encode for responsiveness. Feel confident about the layout.  Now to edit colors and add proper links/photos. 
+**Thoughts:** I found it was easier for me to work in the Atom text editor than in Codepen. Used a different layout scheme that turned out much easier to encode for responsiveness. Feel confident about the layout.  Now to edit colors and add proper links/photos.
 
 **Link to work:** [Portfolio Rework](https://gist.github.com/Muir-Fionn/899e737ef4dfb7efdff46d7835d2b178)
 
@@ -666,4 +674,3 @@
 **Thoughts:** While building the board in Bootstrap helped me to familiarize myself with it, I'm worried that it might cause issues for me later.  We'll see as I start working on the js code tomorrow to allow for actual game play.
 
 **Link to work:** [Tic-Tac-Toe](http://codepen.io/muir-fionn/pen/MJWXjG)
-
