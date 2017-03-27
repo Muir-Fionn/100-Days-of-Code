@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 85: 27 March 2017
+
+**Today's Progress:** Day 12 of 30Days30Sites.  Finished designing a club homepage.
+
+**Thoughts:** Styled the web page, added click events and on-page-load actions.
+
+**Link to work:** [30Days30Sites - Club Page (Codepen)](http://codepen.io/muir-fionn/full/GWBwbP) || [30Days30Sites - Club Page (GitHub)](https://muir-fionn.github.io/Club-Website-Template/)
+
 ### Day 84: 26 March 2017
 
 **Today's Progress:** Day 12 of 30Days30Sites.  Started designing a club homepage.
