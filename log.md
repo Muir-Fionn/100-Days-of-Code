@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 86: 28 March 2017
+
+**Today's Progress:** Day 13 of 30Days30Sites.  Designed a simple Beverage Company landing page.
+
+**Thoughts:** Quick build today. Realized that this build header looks very similar to the club page's.
+
+**Link to work:** [30Days30Sites - Beverage (Codepen)](http://codepen.io/muir-fionn/full/qrJYKx) || [30Days30Sites - Beverage (GitHub)](https://muir-fionn.github.io/Beverage/)
+
 ### Day 85: 27 March 2017
 
 **Today's Progress:** Day 12 of 30Days30Sites.  Finished designing a club homepage.
