@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 87: 29 March 2017
+
+**Today's Progress:** Day 14 of 30Days30Sites.  Designed a printing company homepage.
+
+**Thoughts:** Simple recreation of a homepage with no models or linked pages.
+
+**Link to work:** [30Days30Sites - Printing Company (Codepen)](http://codepen.io/muir-fionn/full/ZemXJJ) || [30Days30Sites - Printing Company (GitHub)](https://muir-fionn.github.io/Printing-Company/)
+
 ### Day 86: 28 March 2017
 
 **Today's Progress:** Day 13 of 30Days30Sites.  Designed a simple Beverage Company landing page.
