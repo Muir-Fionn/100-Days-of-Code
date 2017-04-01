@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 89: 31 March 2017
+
+**Today's Progress:** Worked on my FCC Tic-Tac-Toe Game
+
+**Thoughts:** Starting to build the end game checks.
+
+**Link to work:** [FCC - Tic-Tac-Toe](http://codepen.io/muir-fionn/full/bqRypq)
+
 ### Day 88: 30 March 2017
 
 **Today's Progress:** Worked on my FCC Tic-Tac-Toe Game
