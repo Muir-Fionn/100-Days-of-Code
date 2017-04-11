@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 98: 10 April 2017
+
+**Today's Progress:** Started on Cruise Ship Site for 30 days 30 sites
+
+**Thoughts:** Made a homepage with slideshow style action steps section.
+
+**Link to work:** [Cruise Ship (Github)](https://github.com/Muir-Fionn/Cruise-Ship)
+
 ### Day 97: 9 April 2017
 
 **Today's Progress:** Built Charity Organization Site for 30 days 30 sites
