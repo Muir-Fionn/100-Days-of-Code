@@ -1,10 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 99: 11 April 2017
+
+**Today's Progress:** Finished Cruise Ship Site for 30 days 30 sites
+
+**Thoughts:** Finalized CSS and wrote JS for slideshow element.
+
+**Link to work:** [Cruise Ship (Github)](https://muir-fionn.github.io/Cruise-Ship) || [Cruise Ship (Codepen)](http://codepen.io/muir-fionn/full/KmPYqK)
+
 ### Day 98: 10 April 2017
 
 **Today's Progress:** Started on Cruise Ship Site for 30 days 30 sites
 
-**Thoughts:** Made a homepage with slideshow style action steps section.
+**Thoughts:** Laid out HTML and started on CSS styling.
 
 **Link to work:** [Cruise Ship (Github)](https://github.com/Muir-Fionn/Cruise-Ship)
 
