@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 100: 12 April 2017
+
+**Today's Progress:** Started HTML and CSS on Candy landing page for 30 days 30 sites
+
+**Thoughts:** 100 days done.  It's been a long journey, but I've learned a lot. I can just about code all of my HTML and CSS without Google, still learning some of the nuances of javascript, though.  Responsive design is starting to become normal for me, but I think that on the design side I really need to find a photoshop type software to design my layouts in.  This will help me to better convert what is in my head into what I want to see on my final webpages.  I'll be continuing this adventure for 301DaysOfCode [log](https://github.com/Muir-Fionn/301-Days-of-Code/blob/master/log.md).
+
+**Link to work:** [Candy (Github)](https://github.com/Muir-Fionn/Candy)
+
 ### Day 99: 11 April 2017
 
 **Today's Progress:** Finished Cruise Ship Site for 30 days 30 sites
