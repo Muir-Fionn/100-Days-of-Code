@@ -14,12 +14,22 @@ End Date(Expected): 10 Apr 2017
 End Date(Actual): 12 Apr 2017
 
 Goals:
-  [x] Improve CSS skills: Daily CSS Images and 30 Days 30 Sites challenges
-  [x] Responsive design without using bootstrap: [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp), 30 Days 30 Sites Challenge
-  [x] Better understand JS DOM manipulation using vanilla JS: [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp), 30 Days 30 Sites Challenge
-  [x] Properly use event listeners: [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp), 30 Days 30 Sites Challenge, FreeCodeCamp Front End Projects
-  [x] Use API's and AJAX calls in websites: FreeCodeCamp Intermidiate Front End Development Projects
-  [ ] Finish FCC's Front End Certification
+  - [x] Improve CSS skills:
+    - Daily CSS Images
+    - 30 Days 30 Sites
+  - [x] Responsive design without using bootstrap
+    - [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp)
+    - 30 Days 30 Sites Challenge
+  - [x] Better understand JS DOM manipulation using vanilla JS
+    - [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp)
+    - 30 Days 30 Sites Challenge
+  - [x] Properly use event listeners
+    - [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp)
+    - 30 Days 30 Sites Challenge
+    - FreeCodeCamp Front End Projects
+  - [x] Use API's and AJAX calls in websites
+    - FreeCodeCamp Intermidiate Front End Development Projects
+  - [ ] Finish FCC's Front End Certification
 
 What I've Done:
   - Finished the front-end section of Colt Steele's [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp) on Udemy
