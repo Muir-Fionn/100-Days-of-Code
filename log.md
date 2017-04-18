@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# [100 Days Of Code](README.md) - Log
 
 ### Day 100: 12 April 2017
 
